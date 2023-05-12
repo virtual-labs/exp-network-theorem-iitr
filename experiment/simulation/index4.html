@@ -17,13 +17,14 @@
         footer {
 
           text-align: center;
-           position: absolute; 
-          margin-left: 0px; 
-          margin-top: 1200px;
-          width: 1500px;
-          background-color: #1e1e1e;
+          /* position: absolute; */
+          
+          margin-left: 10px; 
+          margin-top: 20px;
+          max-width: 1500px;
+          padding: 0px;
+          background-color: #606471;
           color: white;
-          font-size: larger;
 
         }
 
@@ -38,7 +39,7 @@
         <!--ROW1-->
         <div class="heading">
             <!--Heading goes here-->
-            <p style=" font-size: 28px; padding-top: 10px; padding:8px; color:white; border-radius: 10px; background-color:#1e1e1e;">TO VERIFY THEVENIN'S THEOREM</p>
+            <p>TO VERIFY THEVENIN'S THEOREM</p>
         </div>
 
         <div class="instructions" id="instTab">
@@ -90,7 +91,7 @@
 
 
                 <div class="action-buttons">
-                    <p style="padding-top: 15px; padding: 6px; color:white; border-radius: 10px; background-color:#1e1e1e;" >ACTION BUTTONS</p>
+                    <p>ACTION BUTTONS</p>
                     <div class="control-panel-buttons">
                         <button id="check">CHECK</button>
                         <button id="add" disabled="true">ADD</button>
@@ -103,33 +104,31 @@
                 <!--Row 2 Col 1 Row1-->
 
                 <div class="formulas">
-                    <p style="padding-top: 15px; padding: 6px; color:white; border-radius: 10px; background-color:#1e1e1e;" >SLIDERS</p>
-<!-- 
-<div style=" position: absolute; margin-left: 50px;"  class="slider1">  -->
+                    <p>SLIDERS</p>
 
                     <input type="range" min="100" max="300" step="100" value="100" id="Rls">
-                    <label style=" margin-left: -78px;" for="Rls"><b>R</b><sub><b>L</b></sub><b>(&#8486;)</b></label>
+                    <label for="Rls">R<sub>L</sub></label>
+
                     <input type="range" min="0.1" max="10" step="0.1" value="0.1" id="R1">
-                    <label style="margin-left: -76px;" for="Rls"><b>R</b><sub><b>1</b></sub><b>(&#8486;)</b></label>
+                    <label for="R1">R<sub>1</sub></label>
                     <input type="range" min="0.1" max="10" step="0.1" value="0.1" id="R2">
-                    <label style="margin-left: -76px;" for="Rls"><b>R</b><sub><b>2</b></sub><b>(&#8486;)</b></label>
+                    <label for="R2">R<sub>2</sub></label>
                     <input type="range" min="0.1" max="10" step="0.1" value="0.1" id="R3">
-                    <label style="margin-left: -76px;" for="Rls"><b>R</b><sub><b>3</b></sub><b>(&#8486;)</b></label>
-                <!-- </div> -->
+                    <label for="R3">R<sub>3</sub></label>
                 </div>
 
                 <!--Row 2 Col 1 Row2-->
                 <div class="o_table">
-                    <p style="padding-top: 15px; padding: 6px; color:white; border-radius: 10px; background-color:#1e1e1e;" >OBSERVATION TABLE</p>
+                    <p>OBSERVATION TABLE</p>
                     <div class="table">
                         <!--TABLE TO BE DISPLAYED HERE-->
                         <table id="valTable">
                             <tr>
                                 <th>S.No.</th>
-                                <th>V<sub>TH</sub>(V)</th>
-                                <th>R<sub>TH</sub>(&#8486;)</th>
-                                <th>R<sub>L</sub>(&#8486;)</th>
-                                <th>I<sub>L</sub>(A)</th>
+                                <th>V<sub>TH</sub></th>
+                                <th>R<sub>TH</sub></th>
+                                <th>R<sub>L</sub></th>
+                                <th>I<sub>L</sub></th>
                             </tr>
                             <tr>
                                 <td>-</td>
@@ -239,7 +238,7 @@
 
     <div class="r3">
         <div class="calculation">
-            <p style=" font-size: 28px; margin-top: -20px; padding-top: 10px; padding: 8px; color:white; border-radius: 10px; background-color:#1e1e1e;">CALCULATIONS</p>
+            <p>CALCULATIONS</p>
             <img src="images/Thevenin/Thevenin calculations.png" id="calculation_png" class="forbidden" height="400" width="700" lt="">
             <input class="SeeOnly" readonly type="text" id="VthC">
             <input class="SeeOnly" readonly type="text" id="RthC">

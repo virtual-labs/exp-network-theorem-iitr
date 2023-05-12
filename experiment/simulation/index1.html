@@ -13,22 +13,27 @@
     <script src="https://cdn.jsdelivr.net/npm/@firestitch/jsplumb@2.12.0/dist/js/jsplumb.min.js"></script>
 
 
+
+
+
     <style>
         
         footer {
 
           text-align: center;
-           position: absolute;
-          margin-left: 0px; 
-          margin-top: 1240px;
-          width: 1500px;
-          background-color: #1e1e1e;
+          /* position: absolute; */
+          
+          margin-left: 10px; 
+          margin-top: 20px;
+          max-width: 1500px;
+          padding: 0px;
+          background-color: #606471;
           color: white;
-          font-size: larger;
 
         }
 
         </style>
+
 </head>
 
 <body>
@@ -37,7 +42,7 @@
         <!--ROW1-->
         <div class="heading">
             <!--Heading goes here-->
-            <p style="padding-top: 15px; padding: 12px; color:white; border-radius: 10px; background-color:#1e1e1e;font-size: 28px;">TO VERIFY SUPERPOSITION THEOREM</p>
+            <p>TO VERIFY SUPERPOSITION THEOREM</p>
         </div>
 
         <div class="instructions" id="instTab">
@@ -94,7 +99,7 @@
 
 
                 <div class="action-buttons">
-                    <p  style="color: white; border-radius: 10px; border:2.5px solid black; background-color:#1e1e1e;">ACTION BUTTONS</p>
+                    <p>ACTION BUTTONS</p>
                     <div class="control-panel-buttons">
                         <button id="check">CHECK</button>
                         <button id="add" disabled="true">ADD</button>
@@ -107,29 +112,30 @@
                 <!--Row 2 Col 1 Row1-->
 
                 <div class="formulas">
-                   <p style="color: white; border-radius: 10px; border:2.5px solid black; background-color:#1e1e1e; " >SLIDERS</p>
+                   <p>SLIDERS</p>
 
                    <input type="range" min="0.1" step="0.1" max="10" id="R1" name = "R1"value="0.1">
-                   <label style="margin-left: -79px;  " for="R1"><b>R</b><sub><b>1</b></sub><b>(&#8486;)</b></label>
+                   <label for="R1">R<sub>1</sub></label>
 
                    <input type="range" min="0.1" step="0.1" max="10" id="R2"name = "R2" value="0.1">
-                   <label style="margin-left: -79px;" for="R2"><b>R</b><sub><b>2</b></sub><b>(&#8486;)</b></label>
+                   <label for="R2">R<sub>2</sub></label>
                    <input type="range" min="0.1" step="0.1" max="10" id="R3" name = "R3"value="0.1">
-                   <label style="margin-left: -79px;" for="R3"><b>R</b><sub><b>3</b></sub><b>(&#8486;)</b></label>
+                   <label for="R3">R<sub>3</sub></label>
 
                 </div>
 
+
                 <!--Row 2 Col 1 Row2-->
                 <div class="o_table">
-                    <p style="color: white; border-radius: 10px; border:2.5px solid black; background-color:#1e1e1e;">OBSERVATION TABLE</p>
+                    <p>OBSERVATION TABLE</p>
                     <div class="table">
                         <!--TABLE TO BE DISPLAYED HERE-->
                         <table id="valTable">
                             <tr>
                                 <th>S.No.</th>
-                                <th>I<sub>1</sub>(A)</th>
-                                <th>I<sub>2</sub>(A)</th>
-                                <th>I<sub>3</sub>(A)</th>
+                                <th>I<sub>1</sub></th>
+                                <th>I<sub>2</sub></th>
+                                <th>I<sub>3</sub></th>
                             </tr>
 
                         </table>
@@ -137,7 +143,10 @@
                 </div>
                 <!--Row 3 Col 1 -->
 
+
+
             </div>
+
 
             <div class="r2c2">
 
@@ -145,9 +154,7 @@
                     <p>&nbsp; &nbsp;</p>
                     <div class="c-diag">
                         <img src="images/MCB_off.png" id = "MCB" height = "120" width = "100" alt="" style="opacity: 0;">
-<P style="z-index: 1; position: absolute; margin-top: -89px; color: white; margin-left: 277px;" > 1  </P>
-<P style="z-index: 1; position: absolute; margin-top: -89px; color: white; margin-left: 484px;" > 2 </P>
-<P style="z-index: 1; position: absolute; margin-top: -89px; color: white; margin-left: 682px;" > 3  </P>
+
                         <img src="images/A1.png" id = "A_1"height = "185" width = "185" alt="">
                         <img src="images/Pointer.png" height = "13" width = "52" id = "P_A1" alt="">
 
@@ -177,12 +184,14 @@
                             <button id="p_a3"><label id = "label5" onclick="disconnect(4)">5</label></button>
                             <button id="n_a3"><label id = "label6" onclick="disconnect(5)">6</label></button>
 
+
                             <button id="p_power1"><label id = "label7" onclick="disconnect(6)">7</label></button>
                             <button id="n_power1"><label id = "label8" onclick="disconnect(7)">8</label></button>
                             <button id="on_power1" disabled="true"></button>
 
                             <button id="c_p_power1"><label id = "label9" onclick="disconnect(8)">9</label></button>
                             <button id="c_n_power1"><label id = "label10" onclick="disconnect(9)">10</label></button>
+
 
                             <button id="c_p_a1"><label id = "label11" onclick="disconnect(10)">11</label></button>
                             <button id="c_n_a1"><label id = "label12" onclick="disconnect(11)">12</label></button>
@@ -194,11 +203,14 @@
                             <button id="c_p_power2"><label id = "label17" onclick="disconnect(16)">17</label></button>
                             <button id="c_n_power2"><label id = "label18" onclick="disconnect(17)">18</label></button>
 
+
+
                             <button id="p_power2"><label id = "label19" onclick="disconnect(18)">19</label></button>
                             <button id="n_power2"><label id = "label20" onclick="disconnect(19)">20</label></button>
 
                             <button id="on_power2" disabled="true"></button>
                             <!--  <button id="on_power1" disabled="true"> </button>  -->
+
 
                             <input type="text" class="SeeOnly" readonly id="R1Display" value="0.1">
                             <input type="text" class="SeeOnly" readonly id="R2Display" value="0.1">
@@ -206,29 +218,41 @@
                             <input type="text" class="PSdisplay" class="SeeOnly" readonly id="PS1Display" value="0 A">
                             <input type="text" class="PSdisplay" class="SeeOnly" readonly id="PS2Display" value="0 V">
 
+
                         </div>
+
 
                         <div class="slider_values">
                             <input type="range" min="0" step="0.1" max="10" disabled="true" id="P1" value="0">
                             <input type="range" min="0" step="0.1" max="10" disabled="true" id="P2" value="0">
                         </div>
 
-                    </div>
 
                     </div>
+
+
+
+
+
+                    </div>
+
 
                 </div>
 
+
                 <!--Row 2 Col 2-->
 
+
             </div>
+
         </div>
 
-        <!-- <div class="clear"></div> -->
+        <div class="clear"></div>
+
 
         <div class="r3">
-            <div class="calculation">
-                <p style="  width: 1395px; position: absolute; margin-top: -40px; padding:4px;padding-top:4px;color:white;border-radius:10px;border:2.5px soild black;background-color:#1e1e1e;">CALCULATIONS</p>
+            <div class="calculation" style="padding-top: -20px;">
+                <p style="margin-bottom: 5px; margin-top: 4px;">CALCULATIONS</p>
                     <img src="images/Superposition Principle.png" height = "440" width = "890" alt="">
                     <br>
                 <input class="SeeOnly" readonly type="text" id="R1C">
@@ -239,7 +263,7 @@
                 <input class="SeeOnly" readonly type="text" id="voltageSupplyC">
 
                 <input class="SeeOnly" readonly type="text" id="R1_cs">
-                <changeable-symbols><label style="margin-left: 10px;" id="sign1" onclick="changeSign('sign1')">±</label></changeable-symbols>
+                <changeable-symbols><label id="sign1" onclick="changeSign('sign1')">±</label></changeable-symbols>
                 <input class="SeeOnly" readonly type="text" id="R2_cs">
                 <changeable-symbols><label id="sign2" onclick="changeSign('sign2')">±</label></changeable-symbols>
                 <input class="SeeOnly" readonly type="text" id="R3_cs">
@@ -264,12 +288,15 @@
 
         </div>
 
+
         <footer>
             <p>Copyright@2022 Virtual Labs, IIT Roorkee</p>
            <!-- <p><a href="mailto:hege@example.com">hege@example.com</a></p>  --> 
           </footer>
 
+
     </div>
+
 
 </body>
 <script src="js/function.js"></script>
