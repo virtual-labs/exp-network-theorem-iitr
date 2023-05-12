@@ -26,7 +26,7 @@ body {
     margin-top: 20px;
     margin-bottom: 5px;
 
-    /* background-color: #eaeaea; */
+    background-color: #eaeaea;
     border-radius: 10px;
 
 }
@@ -55,6 +55,8 @@ body {
     background-color: #eaeaea;
     width: 510px;
     height: 100px;
+
+
     border-radius: 10px;
 
 }
@@ -63,9 +65,9 @@ body {
     display: block;
     background-color: #eaeaea;
     width: 510px;
-    height: 212px;
+    height: 195px;
     border-radius: 10px;
-    /* margin: 0 auto; */
+    margin: 0 auto;
 
 }
 
@@ -89,7 +91,6 @@ body {
     border-radius: 10px;
     background-color: white;
     color: #111111;
-    
 
 
 
@@ -586,7 +587,7 @@ body {
     border-radius: 10px;
     background-color: #3a3a3a;
 
-    margin: 08px 110px;
+    margin: 08px 80px;
 }
 
 .formulas input::-webkit-slider-thumb {
@@ -607,10 +608,9 @@ body {
     cursor: grabbing;
 }
 
- /* #Rls {
+#Rls {
     margin-top: -10px;
-     margin-left: 80px; 
-}  */
+}
 
 .formulas label {
     position: relative;
@@ -673,22 +673,22 @@ body {
 
 #denominator2 {
     bottom: 170px;
-    right: 596px;
+    right: 610px;
 }
 
 #IlC {
     bottom: 185px;
-    right: 585px;
+    right: 600px;
 }
 
 #IlC_calc {
     bottom: 140px;
-    right: 920px;
+    right: 930px;
 }
 
 #IlC_obsv {
     bottom: 110px;
-    right: 980px;
+    right: 990px;
 }
 
 #PSDisplay {
@@ -790,9 +790,8 @@ border-radius: 2px;
 
 #verifyButton{
     position: relative;
-    left: -940px;
+    left: -960px;
     bottom: 110px;
-    background-color: rgba(129, 129, 129, 0.313);
 }
 
 .SeeOnly:hover{
