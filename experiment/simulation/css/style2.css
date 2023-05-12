@@ -26,7 +26,7 @@ body {
     margin-top: 20px;
     margin-bottom: 5px;
 
-    /* background-color: #eaeaea; */
+    background-color: #eaeaea;
     border-radius: 10px;
 
 }
@@ -65,7 +65,7 @@ body {
     display: block;
     background-color: #eaeaea;
     width: 535px;
-    height: 210px;
+    height: 195px;
     border-radius: 10px;
     margin: 0 auto;
 
@@ -184,7 +184,7 @@ body {
     outline: none;
     background-color: rgba(129, 129, 129, 0.313);
 
-    margin: -7px 12px;
+    margin: 0px 10px;
     border-radius: 10px;
 
 
@@ -516,7 +516,7 @@ body {
     border-radius: 10px;
     background-color: #3a3a3a;
 
-    margin: 4px 134px;
+    margin: 08px 80px;
 }
 
 .formulas input::-webkit-slider-thumb {
@@ -588,7 +588,7 @@ img {
 
 #ReqC2 {
     position: relative;
-    right: 537px;
+    right: 545px;
     bottom: 200px;
     width: 40px;
 }
@@ -602,20 +602,20 @@ img {
 #numeriator1 {
     position: relative;
     bottom: 200px;
-    right: 563px;
+    right: 570px;
     width: 40px;
 }
 
 #newcell {
     position: relative;
     bottom: 200px;
-    right: 495px;
+    right: 505px;
     width: 40px;
 }
 
 #numeriator2 {
     bottom: 200px;
-    right: 460px;
+    right: 470px;
 }
 
 #denominator1 {
@@ -759,7 +759,7 @@ border-radius: 2px;
 #RlC2{
     position: relative;
     bottom: 200px;
-    right: 515px;
+    right: 523px;
     width: 40px;
 }
 
@@ -767,14 +767,14 @@ border-radius: 2px;
 #IlC{
     position: relative;
     bottom: 140px;
-    right: 940px;
+    right: 948px;
     width: 40px;
 }
 
 #user{
     position: relative;
     bottom: 110px;
-    right: 990px;
+    right: 1000px;
     width: 40px;
 }
 
@@ -782,7 +782,6 @@ border-radius: 2px;
     position: relative;
     bottom: 110px;
     right: 980px;
-    background-color: rgba(129, 129, 129, 0.313);
 }
 
 #IscC:hover{
