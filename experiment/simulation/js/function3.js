@@ -197,7 +197,8 @@ PLOT_BUTTON.onclick = function plotVal(){
                         beginAtZero: true,
                         title: {
                             display: true,
-                            text: "Power Transfered"
+                            text: "Power Transfered",
+                            color:"black"
                         }
                     },
                     x: {
@@ -205,7 +206,8 @@ PLOT_BUTTON.onclick = function plotVal(){
                         type: "linear",
                         title: {
                             display: true,
-                            text: "R1 values"
+                            text: "R1 values",
+                            color:"black"
                         }
                     }
                 }
