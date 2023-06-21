@@ -25,15 +25,13 @@ body {
     margin: 0 30px;
     margin-top: 20px;
     margin-bottom: 5px;
-
-    background-color: #eaeaea;
+    /* background-color: #eaeaea; */
     border-radius: 10px;
 
 }
 
 .r2 {
     float: left;
-
     width: 1500px;
     margin: 00px 30px;
     border-radius: 10px;
@@ -42,11 +40,8 @@ body {
 
 .r2c1 {
     float: left;
-
     width: 500px;
     height: 300px;
-
-
     border-radius: 10px;
 
 }
@@ -55,7 +50,6 @@ body {
     background-color: #eaeaea;
     width: 510px;
     height: 100px;
-
     border-radius: 10px;
 
 }
@@ -83,13 +77,13 @@ body {
 
 .r3 {
     float: left;
-
     width: 1400px;
     height: 550px;
     margin: 30px 30px 30px 30px;
     border-radius: 10px;
     background-color: white;
     color: #111111;
+    
 
 
 
@@ -97,7 +91,6 @@ body {
 
 .r2c1 .o_table {
     float: left;
-
     width: 510px;
     height: 250px;
     background-color: #eaeaea;
@@ -176,11 +169,9 @@ label {
 
 .control-panel-buttons {
     display: inline-flex;
-
     height: 40px;
     width: 500px;
     background-color: #eaeaea;
-
     border-radius: 10px;
     text-align: center;
 }
@@ -190,11 +181,8 @@ label {
     height: 35px;
     outline: none;
     background-color: rgba(129, 129, 129, 0.313);
-
     margin: 0px 10px;
     border-radius: 10px;
-
-
     text-align: center;
     font-family: 'Foco Trial', sans-serif;
     font-size: 20px;
@@ -351,6 +339,7 @@ label {
     position: relative;
     bottom: 377px;
     left: 139px;
+
 }
 
 #n_a1 {
@@ -588,7 +577,7 @@ img {
 
 #R1C {
     bottom: 410px;
-    left: 50px;
+    left: 49px;
 }
 
 #R2C {
@@ -598,22 +587,22 @@ img {
 
 #R3C {
     bottom: 360px;
-    right: 74px;
+    right: 72px;
 }
 
 #currentSupplyC {
     bottom: 316px;
-    right: 32px;
+    right: 29px;
 }
 
 #voltageSupplyC {
     bottom: 293px;
-    right: 94px;
+    right: 89px;
 }
 
 #R1_cs {
     bottom: 200px;
-    left: 15px;
+    left: 26px;
 }
 
 #sigh1{
@@ -623,42 +612,42 @@ img {
 
 #R2_cs {
     bottom: 200px;
-    left: 45px;
+    left: 54px;
 }
 
 #R3_cs {
     bottom: 200px;
-    left: 75px;
+    left: 84px;
 }
 
 #R1_vs {
     bottom: 150px;
-    right: 170px;
+    right: 156px;
 }
 
 #R2_vs {
     bottom: 150px;
-    right: 140px;
+    right: 127px;
 }
 
 #R3_vs {
     bottom: 150px;
-    right: 110px;
+    right: 98px;
 }
 
 #R1_cv {
     bottom: 100px;
-    right: 355px;
+    right: 337px;
 }
 
 #R2_cv {
     bottom: 100px;
-    right: 325px;
+    right: 309px;
 }
 
 #R3_cv {
     bottom: 100px;
-    right: 295px;
+    right: 280px;
 }
 
 .PSdisplay {
@@ -730,7 +719,7 @@ img {
     border-radius: 10px;
     background-color: #3a3a3a;
 
-    margin: 08px 80px;
+    margin: 10px 118px;
 }
 
 .formulas input::-webkit-slider-thumb {
@@ -853,10 +842,7 @@ img {
     font-family: 'Zacbel X', sans-serif;
     overflow: visible;
     position: absolute;
-
-
     font-size: 10px;
-
     border: 2px solid white;
     background-color: white;
     border-radius: 2px;
@@ -865,8 +851,8 @@ img {
 }
 
 .calculation label {
-    text-align: center;
-    padding-bottom: 2px;
+    /* text-align: center; */
+    /* padding-bottom: 2px; */
     font-family: 'Zacbel X', sans-serif;
     overflow: visible;
     position: absolute;
@@ -910,25 +896,27 @@ img {
 #R1_cvU {
     position: relative;
     bottom: 54px;
-    right: 540px;
+    right: 519px;
 }
 
 #R2_cvU {
     position: relative;
     bottom: 54px;
-    right: 510px;
+    right: 491px;
 }
 
 #R3_cvU {
     position: relative;
     bottom: 54px;
-    right: 480px;
+    right: 462px;
 }
 
 #verify {
     position: relative;
     bottom: 54px;
     right: 450px;
+    background-color: rgba(129, 129, 129, 0.313);
+
 }
 
 .SeeOnly:hover {
@@ -947,8 +935,8 @@ changeable-symbols{
 
 }
 #sign2{
-    margin-left: 30px;
+    margin-left: 40px;
 }
 #sign3{
-    margin-left: 60px;
+    margin-left: 70px;
 }
