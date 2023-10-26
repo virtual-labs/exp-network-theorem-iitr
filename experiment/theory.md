@@ -6,10 +6,7 @@ In Electrical Engineering, Network Theorem is the study of how to solve circuit 
 
 Some of the Network Theorems are briefly discussed below: 
 
-<b> 1. Superposition Theorem</br>
-2. Norton's Theorem</br>
-3. Maximum Power Transfer Theorem</br>
-4. Thevenin's Theorem </b>
+<b> Superposition Theorem,Norton's Theorem, Maximum Power Transfer Theorem, Thevenin's Theorem </b>
 
  ###  <b> 1. Superposition Theorem </b>
 
