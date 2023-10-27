@@ -6,7 +6,10 @@ In Electrical Engineering, Network Theorem is the study of how to solve circuit 
 
 Some of the Network Theorems are briefly discussed below: 
 
-<b> Superposition Theorem,Norton's Theorem, Maximum Power Transfer Theorem, Thevenin's Theorem </b>
+<b> 1. Superposition Theorem</br>
+2. Norton's Theorem</br>
+3. Maximum Power Transfer Theorem</br>
+4. Thevenin's Theorem </b>
 
  ###  <b> 1. Superposition Theorem </b>
 
@@ -319,7 +322,7 @@ It is also called Thevenin voltage <b>(V<sub>th</sub>).</b> <br>
 
 When viewed from terminals A and B, the circuit consists of two parallel paths one containing R2 and another path with r and R1. The equivalent resistance of the circuit as viewed from terminals is given as
 
-$$ R_{th} = \frac{{(R1+r)}⋅{R2}}{R1+r+R2}....... (2) $$
+<!-- $$ R_{th} = \frac{{(R1+r)}⋅{R2}}{R1+r+R2}....... (2) $$ -->
 
 The resistance R<sub>th</sub> is also called as Thevenin’s equivalent resistance.
 

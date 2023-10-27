@@ -5,35 +5,16 @@
 <b>Discipline | <b> Electrical Engineering
 :--|:--|
 <b> Lab | <b> Basic Electrical Science (Simulation)
-<b> Experiment|     <b> To study and verify the Kirchhoff's law.
+<b> Experiment|     <b>4. To study and measure the power consume by three phase resistive load by two wattmeter method.
+
 <h5> About the Experiment : </h5> <br>
 
-<b> To verify kirchhoff's voltage law.</b>
-
-The Aim of this experiment is to apply Kirchhoff’s rules for electrical circuits to determine the voltage in their respective branches.<br>
-
- <b>Objectives:- </b><br>
-
-1.To understand the Kirchhoff’s junction and loop in the electrical circuit.<br>
-2.To measure voltage in a circuit for each element.<br>
-3.To Verify Kirchhoff’s Voltage Law by comparing analytically calculated values with practical one.<br>
-4.To understand the application of Kirchhoff’s law.
-
-<b>To verify kirchhoff's current law.</b><br>
-
-The Aim of this experiment is to apply Kirchhoff’s rules for electrical circuits to determine the current in their respective branches.  <br>
-
-<b> Objectives:- </b><br>
-
-1.To understand the Kirchhoff’s junction and loop in the electrical circuit. <br>
-2.To measure current in a circuit for each element.<br>
-3.To Verify Kirchhoff’s Current Law by comparing analytically calculated values with practical one.<br>
-4.To understand the application of Kirchhoff’s law.
+To study and measure the power consume by three phase resistive load by two wattmeter method.
 
 <b>Name of Developer | <b> Prof. RS Anand
 :--|:--|
 <b> Institute | <b> IIT Roorkee
-<b> Email id|     <b> anandfee@gmail.com
+<b> Email id|   <b> anandfee@gmail.com
 <b> Department | Electrical Engineering
 
 #### Contributors List
