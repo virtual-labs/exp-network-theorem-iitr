@@ -5,7 +5,11 @@
 <b>Discipline | <b> Electrical Engineering
 :--|:--|
 <b> Lab | <b> Basic Electrical Science (Simulation)
-<b> Experiment|     <b>4. To Study and verify the network theorem:Superposition Theorem, Norton's Theorem, Maximum Power Transfer Theorem, Thevenin's Theorem
+<b> Experiment|     <b>4. To Study and verify the network theorem: <br>
+(a) Superposition Theorem<br>
+(b) Norton's Theorem<br>
+(c) Maximum Power Transfer Theorem<br> 
+(d) Thevenin's Theorem
 
 <h5> About the Experiment : </h5> <br>
 
