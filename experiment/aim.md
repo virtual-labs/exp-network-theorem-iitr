@@ -43,3 +43,4 @@ The Aim of this experiment is to verify Thevenin Theorem.<br>
 4. To Verify Thevenin’s Theorem by comparing analytically calculated values with practical one.
 
 </div>
+
