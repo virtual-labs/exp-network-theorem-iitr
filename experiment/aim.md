@@ -1,4 +1,4 @@
-### AIM
+### Aim
 
 <div style=font-size:18px;align:justify;>
 

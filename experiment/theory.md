@@ -1,6 +1,6 @@
-### THEORY
+### Theory
 
-### INTRODUCTION </br></br>
+### Introduction </br></br>
 
 In Electrical Engineering, Network Theorem is the study of how to solve circuit problems by determining the voltages and currents in the circuit. This Theory provides insights of basic circuit concepts in a systematic manner suitable for analysis.</br></br>
 
