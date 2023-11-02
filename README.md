@@ -30,7 +30,7 @@ At the end of this experiment, Students should be able to learn:<br>
 3. To Compute the load current (I<sub>L</sub>) across load resistor by using the current divider rule.<br>
 4. To Verify Norton’s Theorem by comparing analytically calculated values with practical one.<br><br>
 
-<b> 3. MAXIMUM POWER TRANSFER THEOREM  </b> <br>
+<b> 3. Maximum Power Transfer Theorem  </b> <br>
 
 The Aim of this experiment is to verify the maximum power transfer theorem.<br>
 <b>Learning Objectives:-</b> At the end of this experiment, students should be able to understand how maximum power is delivered to the load when load resistance is made equal to the source resistance.<br>
