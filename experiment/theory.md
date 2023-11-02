@@ -28,7 +28,7 @@ The superposition theorem is used in solving a network in which two or more sour
 
 <b>PART(A): When Both are Voltage sources-</b> 
 
-<center><img src="images/superposition/1.png"></center> <center>Figure 1: Voltage Source Circuit</center> <br>
+<center><img src="images/Superposition/1.png"></center> <center>Figure 1: Voltage Source Circuit</center> <br>
 In the circuit above, Since we have two source of voltage, We will have to calculate two sets of value  for voltage drops and/or currents, One for the circuit with only the V1 battery in effect and one for the circuit with only the V2 battery in effect. We have to find the branch current I2 in resistance R2 (load resistance) by using superposition theorem. <br><br>
 
 <b>Step 1 –</b> When we consider one voltage source V1 alone at first and replacing V2 by short circuit.
