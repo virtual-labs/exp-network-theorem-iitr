@@ -50,9 +50,9 @@
 
                 <ul  type="none" class="steps">
 
-                    <li id="s1"> <b>STEP 1:</b> Set the values of resistances R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>L</sub> by adjusting the sliders.</li><br> 
-                    <li id="s2"> <b>STEP 2:</b> Make connections as per the instructions given below:</li><br> 
-                    <li id="s3"><b> Case 1: (a)</b> To measure R<sub>N</sub> short circuit the terminals for power supply (7-8) and connect multimeter with circuit (3-9 and 4-11).</li><br> 
+                    <li > <b>STEP 1:</b> Set the values of resistances R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>L</sub> by adjusting the sliders.</li><br> 
+                    <li > <b>STEP 2:</b> Make connections as per the instructions given below:</li><br> 
+                    <li ><b> Case 1: (a)</b> To measure R<sub>N</sub> short circuit the terminals for power supply (7-8) and connect multimeter with circuit (3-9 and 4-11).</li><br> 
 
                   <li> <b>(b)</b> Now, Check the connections by clicking on <b>‘CHECK’</b> button.</li><br> 
                   <li> <b>(i)</b> If the connections are <b>‘Invalid’</b> click on corresponding label to remove the connection. </li> <br> 
@@ -60,7 +60,7 @@
                   <li> <b>(c)</b> Now, Click on <b>‘ADD’</b> button to add the readings in the observation table.</li><br> 
                   <li> <b>(d)</b> Don’t Reset the experiment, Remove the connections (7-8) and (3-9, 4-11) by clicking on the corresponding labels.  </li><br> 
                         
-                 <li id="s4"> <b>Case 2: (a)</b>  Measure I<sub>sc</sub> by connecting the power supply with the circuit (5-7 and 6-8) and connect the ammeter (1-9 and 2-11). </li> <br> 
+                 <li > <b>Case 2: (a)</b>  Measure I<sub>sc</sub> by connecting the power supply with the circuit (5-7 and 6-8) and connect the ammeter (1-9 and 2-11). </li> <br> 
 
                        <li> <b>(b)</b>Now, Check the connections by clicking on <b> ‘CHECK’</b> button.</li><br> 
                        <li> <b>(i)</b>If the connections are <b>‘Invalid’</b> click on corresponding label to remove the connection.</li> <br> 
@@ -69,16 +69,16 @@
                        <li> <b>(d)</b> Now, Click on <b>‘ADD’</b> button to add the readings in the observation table. </li> <br> 
                        <li> <b>(e)</b> Don’t Reset the experiment, Remove the connections (2-11) by clicking on the corresponding labels. </li><br> 
 
-                <li id="s5"> <b> Case 3: (a)</b> Now, Measure the I<sub>L</sub> by connecting the power supply with the circuit (5-7 and 6-8) and connect ammeter (1-9 and 2-10 and 11-12).</li> <br> 
+                <li > <b> Case 3: (a)</b> Now, Measure the I<sub>L</sub> by connecting the power supply with the circuit (5-7 and 6-8) and connect ammeter (1-9 and 2-10 and 11-12).</li> <br> 
 
                      <li> <b>(b)</b> Now, Check the connections by clicking on <b> ‘CHECK’</b> button.</li><br> 
 
                  <li> <b>Note: Now, follow the <b> CASE 2</b> steps after checking the connections till (d) point.</b> </li><br> 
 
-                     <li id="s6"> <b>STEP 3:</b> Now, Click on <b>‘CALCULATE’</b> button to calculate the load current(I<sub>L</sub>).</li> <br> 
-                     <li id="s7"> <b>STEP 4:</b> In Calculation section, We have to manually calculate the Load current (I<sub>L</sub>) by using the formula and verify it with the help of <b> ‘VERIFY’</b> button.</li><br> 
-                     <li id="s8"> <b>STEP 5:</b> Click on <b>‘PRINT’</b> button to take out the print of the webpage.</li> <br> 
-                     <li id="s9"> <b>STEP 6:</b> Click on <b>‘RESET’</b> button to reload the webpage. </li><br> 
+                     <li> <b>STEP 3:</b> Now, Click on <b>‘CALCULATE’</b> button to calculate the load current(I<sub>L</sub>).</li> <br> 
+                     <li> <b>STEP 4:</b> In Calculation section, We have to manually calculate the Load current (I<sub>L</sub>) by using the formula and verify it with the help of <b> ‘VERIFY’</b> button.</li><br> 
+                     <li> <b>STEP 5:</b> Click on <b>‘PRINT’</b> button to take out the print of the webpage.</li> <br> 
+                     <li> <b>STEP 6:</b> Click on <b>‘RESET’</b> button to reload the webpage. </li><br> 
                 </ul>
             </div>
             <div class="MyLabel">
@@ -184,25 +184,25 @@
                             <div class="positive">
 
 
-                                <button id="p_a"><label id = "label1" onclick="disconnect(0)">1</label></button>
-                                <button id="n_a"><label id = "label2" onclick="disconnect(1)">2</label></button>
+                                <button id="p_a"><label style="height: 17px;width: 14px;font-size: medium;" id = "label1" onclick="disconnect(0)">1</label></button>
+                                <button id="n_a"><label style="height: 17px;width: 14px;font-size: medium;" id = "label2" onclick="disconnect(1)">2</label></button>
 
 
                                 <ckt-element-shift>
-                                <button id="p_power"><label id = "label7" onclick="disconnect(4)">5</label></button>
-                                <button id="n_power"><label id = "label8" onclick="disconnect(5)">6</label></button>
+                                <button id="p_power"><label style="height:  17px;width: 14px;font-size: medium;" id = "label7" onclick="disconnect(4)">5</label></button>
+                                <button id="n_power"><label style="height:  17px;width: 14px;font-size: medium;" id = "label8" onclick="disconnect(5)">6</label></button>
                                 <button id="on_power" disabled="true"></button>
 
-                                <button id="c_p_power1"><label id = "label9" onclick="disconnect(6)">7</label></button>
-                                <button id="c_n_power1"><label id = "label10" onclick="disconnect(7)">8</label></button>
+                                <button id="c_p_power1"><label style="height:  17px;width: 14px;font-size: medium;" id = "label9" onclick="disconnect(6)">7</label></button>
+                                <button id="c_n_power1"><label style="height:  17px;width: 14px;font-size: medium;" id = "label10" onclick="disconnect(7)">8</label></button>
 
-                                <button id="c_ul"><label id = "label11" onclick="disconnect(8)">9</label></button>
-                                <button id="c_ur"><label id = "label12" onclick="disconnect(9)">10</label></button>
-                                <button id="c_ll"><label id = "label13" onclick="disconnect(10)">11</label></button>
-                                <button id="c_lr"><label id = "label14" onclick="disconnect(11)">12</label></button>
+                                <button id="c_ul"><label style="height:  17px;width: 14px;font-size: medium;" id = "label11" onclick="disconnect(8)">9</label></button>
+                                <button id="c_ur"><label style="height:  17px;width: 18px;font-size: medium;" id = "label12" onclick="disconnect(9)">10</label></button>
+                                <button id="c_ll"><label style="height:  17px;width: 18px;font-size: medium;" id = "label13" onclick="disconnect(10)">11</label></button>
+                                <button id="c_lr"><label style="height:  17px;width: 18px;font-size: medium;" id = "label14" onclick="disconnect(11)">12</label></button>
                             </ckt-element-shift>
-                                <button id="p_mul"><label id = "label5" onclick="disconnect(2)">3</label></button>
-                                <button id="n_mul"><label id = "label6" onclick="disconnect(3)">4</label></button>
+                                <button id="p_mul"><label style="height:  17px;width: 14px;font-size: medium;" id = "label5" onclick="disconnect(2)">3</label></button>
+                                <button id="n_mul"><label style="height:  17px;width: 14px;font-size: medium;" id = "label6" onclick="disconnect(3)">4</label></button>
 
 
 
