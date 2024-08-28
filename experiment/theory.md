@@ -2,14 +2,10 @@
 
 ### INTRODUCTION </br></br>
 
-In Electrical Engineering, Network Theorem is the study of how to solve circuit problems by determining the voltages and currents in the circuit. This Theory provides insights of basic circuit concepts in a systematic manner suitable for analysis.</br></br>
+<div align="justify" style="font-size:18px;">
 
-Some of the Network Theorems are briefly discussed below: 
-
-<b> 1. Superposition Theorem</br>
-2. Norton's Theorem</br>
-3. Maximum Power Transfer Theorem</br>
-4. Thevenin's Theorem </b>
+In Electrical Engineering, Network Theorem is the study of how to solve circuit problems by determining the voltages and currents in the circuit. This Theory provides insights of basic circuit concepts in a systematic manner suitable for analysis.</br>
+</div>
 
  ###  <b> 1. Superposition Theorem </b>
 
@@ -28,12 +24,12 @@ The superposition theorem is used in solving a network in which two or more sour
 
 <b>PART(A): When Both are Voltage sources-</b> 
 
-<center><img src="images/superposition/1.png"></center> <center>Figure 1: Voltage Source Circuit</center> <br>
+<center><img src="images/Superposition/1.png"></center> <center>Figure 1: Voltage Source Circuit</center> <br>
 In the circuit above, Since we have two source of voltage, We will have to calculate two sets of value  for voltage drops and/or currents, One for the circuit with only the V1 battery in effect and one for the circuit with only the V2 battery in effect. We have to find the branch current I2 in resistance R2 (load resistance) by using superposition theorem. <br><br>
 
 <b>Step 1 –</b> When we consider one voltage source V1 alone at first and replacing V2 by short circuit.
 
-<center><img src="images/superposition/2.png"></center> <center>Figure 2: After Removal V2 Voltage Source </center> <br>
+<center><img src="images/Superposition/2.png"></center> <center>Figure 2: After Removal V2 Voltage Source </center> <br>
 
 Here, the branch current of resistance R2 is I2’
 
@@ -48,7 +44,7 @@ Here, the branch current of resistance R2 is I2’
 
 
 <b>Step 2 –</b><br>
-<center><img src="images/superposition/3.png"></center> <center>Figure 3: After Removal V1 Voltage Source </center> <br>
+<center><img src="images/Superposition/3.png"></center> <center>Figure 3: After Removal V1 Voltage Source </center> <br>
 
 Take the source V2 alone, and replacing the V1 by short circuit.<br>
 
@@ -70,12 +66,12 @@ And overall voltage drop across R2 ( since polarity is same in both case), from 
 <center> $ V2 = V2' + V2'' $ </center>
 
 <b>PART(B): When one Current and one Voltage source-</b><br>
-<center><img src="images/superposition/4.png"></center> <center>Figure 4: One Current and One Voltage Source </center> <br>
+<center><img src="images/Superposition/4.png"></center> <center>Figure 4: One Current and One Voltage Source </center> <br>
 In above circuit, Since we have one source of voltage and one source of current , we will have to calculate two sets of value currents, one for the circuit with only the V1 battery in effect and one for the circuit with only the I1 in effect. <br> <br>
 We have to find the branch current I2  in resistance R2 (load resistance) by using superposition theorem. <br><br>
 
 <b>Step 1 –</b> Take the source V1 alone at first, replacing source I1 by open circuit.
-<center><img src="images/superposition/5.png"></center> <center>Figure 5: After Removal Current Source </center> <br>
+<center><img src="images/Superposition/5.png"></center> <center>Figure 5: After Removal Current Source </center> <br>
 
 
 Here, the branch current I
@@ -85,7 +81,7 @@ Here, the branch current I
 <center> $V2’ = I2’⋅R2..............(iii) $ </center>
 
 <B>Step 2 –</b> Take the current source I alone, and replacing the V1 by short circuit.
-<center><img src="images/superposition/6.png"></center> <center>Figure 6: After Removal Voltage Source </center> <br>
+<center><img src="images/Superposition/6.png"></center> <center>Figure 6: After Removal Voltage Source </center> <br>
 
 Here, the branch current of R2……
 
@@ -104,14 +100,14 @@ And overall voltage drop across R2 ( since polarity is same in both case), from 
 <center>$V2 = V2'+ V2''$</center>
 
 <b>PART(C): When Both are Current sources-</b>
-<center><img src="images/superposition/7.png"></center> <center>Figure 7: Two Current Source </center> <br>
+<center><img src="images/Superposition/7.png"></center> <center>Figure 7: Two Current Source </center> <br>
 
 In above circuit, Since we have two source of current , we will have to calculate two sets of value currents, one for the circuit with only the I in effect and one for the circuit with only the I’ in effect. <br>
 
 We have to find the branch current I2  in resistance R2 (load resistance) by using superposition theorem.
 
 <b>Step 1 –</b>
-<center><img src="images/superposition/8.png"></center> <center>Figure 8: After Removal I2 Current Source </center> <br>
+<center><img src="images/Superposition/8.png"></center> <center>Figure 8: After Removal I2 Current Source </center> <br>
 
 Take the current source I alone at first, replacing current source I’ by open circuit.
 <center> $ I3 = 0 $ </center>
@@ -119,9 +115,9 @@ Take the current source I alone at first, replacing current source I’ by open 
 <center> $I = I1 = I2’......(5) $</center>
 
 <b>Step 2 –</b> Take the current source I’ alone, and replacing the I by short circuit.
-<center><img src="images/superposition/9.png"></center> <center>Figure 9: After Removal I1 Current Source </center> <br>
+<center><img src="images/Superposition/9.png"></center> <center>Figure 9: After Removal I1 Current Source </center> <br>
 
-<center> $I1 = 0 $ <center>
+<center> $I1 = 0 $ </center>
 
 <center> $I’ = I3 = I2’’......(6) $ </center>
 
@@ -179,13 +175,12 @@ Next independent source is deactivated and short circuited is removed,
 <center><img src="images/Norton/theory3.png"></center> <center>Figure 3: Circuit to calculate Norton Equivalent resistance after removing load resistance </center> <br>
 
 From figure,<br>
-<center> $ R_N = R2+\frac{R1⋅R3}{R1+R3}.........(2) $<center>
-
+<center> $ R_N = R2+\frac{R1⋅R3}{R1+R3}.........(2) $</center>
 
 As per Norton’s theorem, the equivalent circuit would contain a current source in parallel to the Norton resistance, the current source being the short circuited across the short-circuited terminals of load.
 <center><img src="images/Norton/theory4.png"></center> <center>Figure 4: Equivalent Load Current </center> <br>
 
-From equivalent circuit, <br>
+From equivalent circuit,<br>
 <center>$ I_L =  I_{SC}\times \frac{R_{INT}}{{R_{INT}}+R_L}........(3) $ </center>
 
 ### <b>Advantages of Norton's Theorem:</b>
@@ -309,27 +304,35 @@ Application of thevenins theorem can be explained by the following example. Supp
 
 As seen, V<sub>O.C.</sub> = drop across R<sub>2</sub>= IR<sub>2</sub> where, I is the circuit current when A and B is open.
 
-<center> $I=\frac E{r+R1+R2} $ <center>
+<center> $I=\frac E{r+R1+R2} $ </center>
 
-<center> $V_{O.C.} = I\times R1 $ <center>
+<center> $V_{O.C.} = I\times R1 $ </center>
 
-<center> $ V_{O.C.} = E\times\frac{R2}{r+R1+R2} .......(1) $ <center>
+<center> $ V_{O.C.} = E\times\frac{R2}{r+R1+R2} .......(1) $ </center>
 
 It is also called Thevenin voltage <b>(V<sub>th</sub>).</b> <br>
 
 3. Now remove the battery from the circuit leaving only its internal resistance r, redraw the circuit as shown below
 <center><img src="images/Thevenin/theory3.png"></center> <center>Figure 3: Circuit with E and R<sub>L</sub> removed </center> <br>
 
-When viewed from terminals A and B, the circuit consists of two parallel paths one containing R2 and another path with r and R1. The equivalent resistance of the circuit as viewed from terminals is given as
-<div align="center"
-$ R_{th} = \frac {(R1+r)⋅R2} {R1+r+R2}....... (2) $
+When viewed from terminals A and B, the circuit consists of two parallel paths one containing R2 and another path with r and R1. The equivalent resistance of the circuit as viewed from terminals is given as:
+
+<div align="center">
+
+ $ R_{th} = \frac{(R_1+r) \cdot R_2}{R_1+r+R_2}....... (2) $
+
  </div>
 
 The resistance R<sub>th</sub> is also called as Thevenin’s equivalent resistance.
 
 4. R<sub>L</sub> is now connected back across terminals A and B from where it was temporarily removed earlier. Current flowing through R<sub>L</sub> is given by, 
 
-<center> $ I_1=\frac {V_{th}}{R_{th}+R_L}...............(3)  $ <center>
+<div align="center">
+
+ $ I_1=\frac {V_{th}}{R_{th}+R_L}...............(3) $ 
+
+ </div>
+
 <center><img src="images/Thevenin/theory4.png"></center> <center>Figure 4: Thevenin's Equivalent Circuit </center> 
 
 ### <b>Advantages of Thevenin's Theorem:</b>
