@@ -1,0 +1,45 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To study and verify the network theorem.",
+            "a": "Superposition Theorem",
+            "b": "Norton's Theorem",
+            "c": "Maximum Power Transfer Theorem Theorem",
+            "d": "Thevenin's Theorem",
+			"Lab": "Basic Electrical Science",               
+			"Discipline": "Electrical Engineering",				 
+			"Technology": "HTML, JavaScript, CSS"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Prof. RS Anand",         
+      "Institute": "Indian Institute of Technology Roorkee, Roorkee",         
+      "InstituteAcronym": "IITR"   
+       }
+   ],
+
+   "contributer": [
+       
+       {       
+			"Contributer": "Rajeev Kumar",              
+      "Institute": "Indian Institute of Technology Roorkee, Roorkee",               
+			"InstituteAcronym": "IITR"         
+       },
+
+       {       
+			"Contributer": "Piyush Rawat",             
+      "Institute": "Indian Institute of Technology Roorkee, Roorkee",               
+			"InstituteAcronym": "IITR"         
+       },
+
+       {       
+        "Contributer": "Rahul Saini",             
+      "Institute": "Indian Institute of Technology Roorkee, Roorkee",               
+      "InstituteAcronym": "IITR"         
+       }
+   ]
+
+}
