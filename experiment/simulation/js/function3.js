@@ -8,7 +8,7 @@ var MULTIMETER_POSITIVE = document.getElementById("p_m")
 var MULTIMETER_NEGATIVE = document.getElementById("n_m")
 var POWER_POSITIVE = document.getElementById("p_p")
 var POWER_NEGATIVE = document.getElementById("n_p")
-var POWER_ON = document.getElementById("p_on")
+var POWER_ON = document.getElementById("p_on");
 var CIRCUIT_POWER_POSITIVE = document.getElementById("c_p_p")
 var CIRCUIT_POWER_NEGATIVE = document.getElementById("c_p_n")
 var CIRCUIT_AMMETER_POSITIVE = document.getElementById("c_a_p")
@@ -77,29 +77,39 @@ const instance = jsPlumb.getInstance({
 
 POWER_ON.onclick = function toggle_power() {
     if (POWER_STATE == 0) {
-        POWER_IMG.src = "images/Maximum/PowerSupplyOn.png"
-        POWER_STATE = 1
-        POWER_SUPPLY.disabled = false
+        POWER_IMG.src = "images/Maximum/PowerSupplyOn.png";
+        POWER_STATE = 1;
+        POWER_SUPPLY.disabled=false;
+       // POWER_SUPPLY.disabled = true;
+       // POWER_ON.style.pointerEvents='auto';
+      // POWER_SUPPLY.style.pointerEvents='none';
+      POWER_ON.disabled=1;
     }
     else if (POWER_STATE == 1) {
-        POWER_IMG.src = "images/Maximum/PowerSupplyOff.png"
-        POWER_STATE = 0
-        POWER_SUPPLY.disabled = true
+        POWER_IMG.src = "images/Maximum/PowerSupplyOff.png";
+        POWER_STATE = 0;
+        POWER_SUPPLY.disabled = true;
     }
 }
 
 MCB_SWITCH.onclick = function toggle_mcb() {
+
     if (MCB_STATE == 0) {
+
         MCB_IMG.src = "images/Maximum/MCB_On.png"
         MCB_SWITCH.style.transform = "translate(0px, -55px)"
-        MCB_STATE = 1
-        POWER_ON.disabled = false
+        MCB_STATE = 1;
+        POWER_ON.disabled=0;
+        MCB_SWITCH.style.pointerEvents= 'none';
+       // POWER_ON.style.pointerEvents='none';
     }
     else if (MCB_STATE == 1) {
+
         MCB_IMG.src = "images/Maximum/MCB_Off.png"
         MCB_SWITCH.style.transform = "translate(0px, 0px)"
-        MCB_STATE = 0
-        POWER_ON.disabled = true
+        MCB_STATE = 0;
+        POWER_ON.style.pointerEvents='none';
+       // POWER_ON.disabled = true
     }
 }
 
@@ -107,17 +117,17 @@ MCB_SWITCH.onclick = function toggle_mcb() {
 
  POWER_SUPPLY.oninput = function () {
      document.getElementById("PS_DISPLAY").value = this.value;
-    updateAmmeter(calcAmmeter(this, R1_SLIDER, RL_SLIDER))
-     updateVoltmeter(calcVoltmeter(this, R1_SLIDER, RL_SLIDER))
-     R1_SLIDER.disabled = false
+    updateAmmeter(calcAmmeter(this, R1_SLIDER, RL_SLIDER));
+     updateVoltmeter(calcVoltmeter(this, R1_SLIDER, RL_SLIDER));
+     R1_SLIDER.disabled = false;
  }
 R1_SLIDER.oninput = function () {
     document.getElementById("R1_DISPLAY").value = this.value;
     updateAmmeter(calcAmmeter(POWER_SUPPLY, this, RL_SLIDER))
     updateVoltmeter(calcVoltmeter(POWER_SUPPLY, this, RL_SLIDER))
-    POWER_SUPPLY.disabled = true
-    ADD_BUTTON.disabled = false
-    PLOT_BUTTON.disabled = false
+    POWER_SUPPLY.disabled = true;
+    ADD_BUTTON.disabled = false;
+    PLOT_BUTTON.disabled = false;
     flag_s5 = flag_s5 + 1;
 }
 RL_SLIDER.oninput = function () {
@@ -145,20 +155,22 @@ CHECK_BUTTON.onclick = function checkConnections() {
     }
 
     if ((arrChk == 8)&& (instance.getAllConnections().length == 8)) {
-        alert("Right connections! Please turn on the MCB and choose resistance values.")
+        alert("Right connections! Please turn on the MCB and choose resistance values.");
+        CHECK_BUTTON.disabled=true;
+        RL_SLIDER.style.pointerEvents='none';
 
         MCB_SWITCH.disabled = false
         flag_s3 = 1
         arrChk = 0;
-        MM_DISPLAY.value = RL_SLIDER.value
+        MM_DISPLAY.value = RL_SLIDER.value;
     }
 
     else if (instance.getAllConnections().length == 0) {
-        alert("Please make connections")
+        alert("Please make the connections");
     }
 
     else {
-        alert("Invalid connections!! Please re-check your connections")
+        alert("Invalid connections!! Please re-check your connections");
         console.log(arrChk)
        // window.location.reload()
     }
@@ -166,9 +178,11 @@ CHECK_BUTTON.onclick = function checkConnections() {
 
 PLOT_BUTTON.onclick = function plotVal(){
 
+    PLOT_BUTTON.disabled=true;
+
     if (powerVal.length >= 6) {
 
-        var temp1 = document.getElementById("plotContiner")
+        var temp1 = document.getElementById("plotContiner");
         var temp2 = temp1.innerHTML
         temp1.innerHTML = temp2
         
@@ -215,7 +229,7 @@ PLOT_BUTTON.onclick = function plotVal(){
         });
     }
     else{
-        window.alert("Please take atleast 6 readings")
+        window.alert("Please take atleast 6 readings");
     }
 
 }
@@ -412,7 +426,9 @@ function disconnect(num){
 
 function addValuesToTable() {
 
-    if (TABLE_COUNT < 8) {
+    ADD_BUTTON.disabled=true;
+
+    if (TABLE_COUNT < 6) {
         flag_s6 = 1
         var row = TABLE.insertRow(-1)
 

@@ -81,7 +81,7 @@ var flags5 = 0
 var flagADD = 0
 
 window.onload = function setSize() {
-    document.body.style.zoom = "89%"
+    document.body.style.zoom = "100%"
 }
 
 const instance = jsPlumb.getInstance({
@@ -263,7 +263,7 @@ check.onclick = function callCheck() {
 
         if ((i == 0) && (checkcon(valList[i])) == 3) {
 
-            window.alert("Multimeter connected")
+            window.alert("Multimeter connected");
             case_checks.push(1)
             caseVal = 1;
             add.disabled = false
@@ -271,7 +271,7 @@ check.onclick = function callCheck() {
 
         else if ((i == 1) && (checkcon(valList[i])) == 4) {
 
-            window.alert("Ammeter connected,Please turn on the power supply")
+            window.alert("Ammeter connected,Please turn on the power supply");
             variacSlider.disabled = true;
             on_pow.disabled= false                           // Changed here 
             case_checks.push(2)
@@ -282,24 +282,25 @@ check.onclick = function callCheck() {
 
         else if ((i == 2) && (checkcon(valList[i])) == 5) {
 
-            window.alert("Load and Ammeter connected,Please turn on the power supply")
+            window.alert("Load and Ammeter connected,Please turn on the power supply");
             variacSlider.disabled = true;
             on_pow.disabled = false;                 //  Changed here 
             case_checks.push(3)
             caseVal = 3;
+            check.disabled=true;
         }
         
     }
 
     if (instance.getAllConnections().length == 0) {
 
-        window.alert("Please make connections")
+        window.alert("Please make the connections");
 
     }
 
     else if (caseVal == 0) {
 
-        window.alert("Invalid Connectios")
+        window.alert("Invalid Connections");
 
        // window.location.reload()
 
@@ -477,14 +478,14 @@ function disconnect(node) {
     instance.deleteConnectionsForElement(node_list[node])
 }
 
-function highlight() {
-    s1 = document.getElementById("s1");
-    s2 = document.getElementById("s2");
-    s3 = document.getElementById("s3");
-    s4 = document.getElementById("s4");
-    s5 = document.getElementById("s5");
-    s6 = document.getElementById("s6");
-    s7 = document.getElementById("s7");
+ function highlight() {
+     s1 = document.getElementById("s1");
+     s2 = document.getElementById("s2");
+     s3 = document.getElementById("s3");
+     s4 = document.getElementById("s4");
+     s5 = document.getElementById("s5");
+     s6 = document.getElementById("s6");
+     s7 = document.getElementById("s7");
 
     if ((flags1 == 0) && (instance.getAllConnections().length != 0)) {
         window.alert("Please choose resistance values first");

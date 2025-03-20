@@ -273,6 +273,7 @@ caseVal= 0;
             //checkflag = 1
             caseVal = 3;
            on_pow.disabled = false
+           check.disabled=true;
             
             
         }
@@ -280,7 +281,7 @@ caseVal= 0;
 
         if (instance.getAllConnections().length == 0) {
 
-            window.alert("Please make connections");
+            window.alert("Please make the connections");
         
         }
 
@@ -407,7 +408,7 @@ calculate.onclick = function doCalc() {
 
 
     
-
+calculate.disabled=true;
     if ((case_checks.indexOf(1) != -1) && (case_checks.indexOf(2) != -1) && (case_checks.indexOf(3) != -1)) {
 
     window.scrollTo({

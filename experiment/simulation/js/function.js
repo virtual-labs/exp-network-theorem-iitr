@@ -350,7 +350,8 @@ check.onclick = function chkConn() {
     }
 
     if ((arrChk == 6) && (arrChk1 == 4) && (instance.getAllConnections().length == 10)) {
-        window.alert("Right Connections, both Power Supplies are connected.")
+        window.alert("Right Connections, both Power Supplies are connected.");
+        check.disabled=true;
         flag_case = 1;
 
         arrChk = 0;
@@ -360,54 +361,61 @@ check.onclick = function chkConn() {
 
         // P1.disabled = true
         // P2.disabled = true
-        on_power1.disabled = false
-        on_power2.disabled = false
+        on_power1.disabled = false;
+        on_power2.disabled = false;
         checkflag1 = 1;
         checkflag2 = 1;
         updateAmmeters();
+        on_power1.style.pointerEvents='auto';
+        on_power2.style.pointerEvents = 'auto';
 
     }
 
     else if ((arrChk == 6) && (arrChk2 == 6) && (instance.getAllConnections().length == 8)) {
-        window.alert("Right Connections, only voltage supply is connected.")
+
+        window.alert("Right Connections, only voltage supply is connected.");
         flag_case = 2;
 
         arrChk = 0;
         arrChk1 = 0;
         arrChk2 = 0;
         arrChk3 = 0;
-        checkflag1 = 1
-        checkflag2 = 0
+        checkflag1 = 1;
+        checkflag2 = 0;
         // P1.disabled = true
         // P2.disabled = true
-        on_power1.disabled = true
-        on_power2.disabled = false
+        on_power1.disabled = true;
+        on_power2.disabled = false;
 
         updateAmmeters();
 
     }
 
     else if ((arrChk == 6) && (arrChk3 == 3) && (instance.getAllConnections().length == 9)) {
-        window.alert("Right Connections, only current supply is connected.")
+
+        window.alert("Right Connections, only current supply is connected.");
         flag_case = 3;
 
         arrChk = 0;
         arrChk1 = 0;
         arrChk2 = 0;
         arrChk3 = 0;
-        checkflag1 = 0
+        checkflag1 = 0;
         checkflag2 = 1;
         // P1.disabled = true
         // P2.disabled = true
-        on_power1.disabled = false
-        on_power2.disabled = true
+        on_power1.disabled = false;
+        on_power2.disabled = true;
+
+        check.disabled=true;
 
         updateAmmeters();
 
     }
 
     else if (instance.getConnections().length == 0) {
-        window.alert("Please make connections")
+
+        window.alert("Please make the connections!");
 
         arrChk = 0;
         arrChk1 = 0;
@@ -420,7 +428,7 @@ check.onclick = function chkConn() {
     }
 
     else {
-        window.alert("Invalid Connections")
+        window.alert("Invalid Connections!");
 
         arrChk = 0;
         arrChk1 = 0;
@@ -541,6 +549,7 @@ on_power1.onclick = function toggle_onOff1() {
             P1.value = 0;
             PS1D.value = "0 A"
             P1.disabled = false;
+            on_power1.style.pointerEvents='none';
         }
     }
     else if (power1_state == 1) {
@@ -558,15 +567,16 @@ on_power1.onclick = function toggle_onOff1() {
 
 on_power2.onclick = function toggle_onOff2() {
 
-    add.disabled = false
+    add.disabled = false;
 
     if ((power2_state == 0)) {
         power2_state = 1;
         document.getElementById("power_2").src = "images/voltage_src _on.png";
         if ((checkflag1 == 1)&&(flagsCP2 == 0)) {
             P2.value = 0;
-            PS2D.value = "0 V"
+            PS2D.value = "0 V";
             P2.disabled = false;
+            on_power2.style.pointerEvents='none';
         }
     }
     else if (power2_state == 1) {
@@ -574,8 +584,9 @@ on_power2.onclick = function toggle_onOff2() {
         document.getElementById("power_2").src = "images/voltage_src _off.png";
         if ((checkflag1 == 1)&&(flagsCP2 == 0)) {
             P2.value = 0;
-            PS2D.value = "0 V"
+            PS2D.value = "0 V";
             P2.disabled = true;
+            
         }
         setZero();
     }
@@ -583,8 +594,10 @@ on_power2.onclick = function toggle_onOff2() {
 
 add.onclick = function addToTable() {
 
-    on_power2.disabled = true
-    on_power1.disabled = true
+    on_power2.disabled = true;
+    on_power1.disabled = true;
+
+    check.disabled=false;
 
     flag_s5 = flag_s5 + 1;
 
@@ -626,8 +639,8 @@ add.onclick = function addToTable() {
             i3.innerHTML = I_r3_a.toFixed(2)
 
             case_list.push(flag_case)
-            on_power2.disabled = true
-            on_power1.disabled = true
+            on_power2.disabled = true;
+            on_power1.disabled = true;
         }
 
         // mcb_state = 0
@@ -639,7 +652,7 @@ add.onclick = function addToTable() {
             document.getElementById("power_1").src = "images/current_src _off.png";
             //PS1D.value = '0 A'
             //P1.value = 0
-            P1.disabled = true
+            P1.disabled = true;
         }
 
         if (checkflag1 == 1) {
@@ -647,7 +660,7 @@ add.onclick = function addToTable() {
             document.getElementById("power_2").src = "images/voltage_src _off.png";
             //PS2D.value = '0 V'
             //P2.value = 0
-            P2.disabled = true
+            P2.disabled = true;
         }
 
         setZero();
@@ -656,7 +669,7 @@ add.onclick = function addToTable() {
             calculate.disabled = false;
         }
 
-        this.disabled = true
+        this.disabled = true;
     }
     else {
         window.alert("Please turn on the connected power supplies!")
@@ -664,6 +677,7 @@ add.onclick = function addToTable() {
 }
 
 calculate.onclick = function doCalc() {
+    check.disabled=1;
 
     if ((sign1.innerHTML != "±") && (sign3.innerHTML != "±") && (sign2.innerHTML != "±")) {
 
