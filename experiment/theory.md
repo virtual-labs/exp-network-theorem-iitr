@@ -400,7 +400,7 @@ It is also called Thevenin voltage <b>(V<sub>th</sub>).</b> <br>
 
 When viewed from terminals A and B, the circuit consists of two parallel paths one containing R2 and another path with r and R1. The equivalent resistance of the circuit as viewed from terminals is given as
 
-<!-- $$ R_{th} = \frac{{(R1+r)}⋅{R2}}{R1+r+R2}....... (2) $$ -->
+<!-- $$ R_{th} = \frac {(R1+r)⋅R2}{R1+r+R2}....... (2) $$ -->
 
 The resistance R<sub>th</sub> is also called as Thevenin’s equivalent resistance.
 
@@ -408,7 +408,7 @@ The resistance R<sub>th</sub> is also called as Thevenin’s equivalent resistan
 
 <center> 
 
-$ I_1=\frac {V_{th}}{R_{th}+R_L}...............(3)  $ <center>
+$ I_1=\frac {V_th}{R_th+R_L}...............(3)  $ <center>
 <center><img src="images/Thevenin/theory4.png"></center> <center>Figure 4: Thevenin's Equivalent Circuit </center> 
 
 ### <b>Advantages of Thevenin's Theorem:</b>
