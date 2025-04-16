@@ -94,7 +94,7 @@ In above circuit, Since we have one source of voltage and one source of current 
 We have to find the branch current I2  in resistance R2 (load resistance) by using superposition theorem. <br><br>
 
 <b>Step 1– </b> Take the source V1 alone at first, replacing source I1 by open circuit.
-<center><img src="images/superposition/5.png"></center> <center>Figure 5: After Removal Current Source </center> <br>
+<center><img src="images/Superposition/5.png"></center> <center>Figure 5: After Removal Current Source </center> <br>
 
 Here, the branch current I
 
@@ -107,7 +107,7 @@ $I1 = I2’=\frac{V1}{R1+R2}..........(3) $ </center>
 $V2’ = I2’⋅R2..............(iii) $ </center>
 
 <B>Step 2– </b> Take the current source I alone, and replacing the V1 by short circuit.
-<center><img src="images/superposition/6.png"></center> <center>Figure 6: After Removal Voltage Source </center> <br>
+<center><img src="images/Superposition/6.png"></center> <center>Figure 6: After Removal Voltage Source </center> <br>
 
 Here, the branch current of R2……
 
