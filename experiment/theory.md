@@ -28,12 +28,12 @@ The superposition theorem is used in solving a network in which two or more sour
 
 <b>PART(A): When Both are Voltage sources-</b> 
 
-<center><img src="images/superposition/1.png"></center> <center>Figure 1: Voltage Source Circuit</center> <br>
+<center><img src="images/Superposition/1.png"></center> <center>Figure 1: Voltage Source Circuit</center> <br>
 In the circuit above, Since we have two source of voltage, We will have to calculate two sets of value  for voltage drops and/or currents, One for the circuit with only the V1 battery in effect and one for the circuit with only the V2 battery in effect. We have to find the branch current I2 in resistance R2 (load resistance) by using superposition theorem. <br><br>
 
 <b>Step 1– </b> When we consider one voltage source V1 alone at first and replacing V2 by short circuit.
 
-<center><img src="images/superposition/2.png"></center> <center>Figure 2: After Removal V2 Voltage Source </center> <br>
+<center><img src="images/Superposition/2.png"></center> <center>Figure 2: After Removal V2 Voltage Source </center> <br>
 
 Here, the branch current of resistance R2 is I2’
 
@@ -55,7 +55,7 @@ $I2’ = I1\times \frac{R3}{R2+R3}.....(1) $ </center>
 $V2’ = I1’⋅R2 .....(i)  $ </center>
 
 <b>Step 2– </b><br>
-<center><img src="images/superposition/3.png"></center> <center>Figure 3: After Removal V1 Voltage Source </center> <br>
+<center><img src="images/Superposition/3.png"></center> <center>Figure 3: After Removal V1 Voltage Source </center> <br>
 
 Take the source V2 alone, and replacing the V1 by short circuit.<br>
 
@@ -89,7 +89,7 @@ And overall voltage drop across R2 ( since polarity is same in both case), from 
 $ V2 = V2' + V2'' $ </center>
 
 <b>PART(B): When one Current and one Voltage source-</b><br>
-<center><img src="images/superposition/4.png"></center> <center>Figure 4: One Current and One Voltage Source </center> <br>
+<center><img src="images/Superposition/4.png"></center> <center>Figure 4: One Current and One Voltage Source </center> <br>
 In above circuit, Since we have one source of voltage and one source of current , we will have to calculate two sets of value currents, one for the circuit with only the V1 battery in effect and one for the circuit with only the I1 in effect. <br> <br>
 We have to find the branch current I2  in resistance R2 (load resistance) by using superposition theorem. <br><br>
 
@@ -134,14 +134,14 @@ And overall voltage drop across R2 ( since polarity is same in both case), from 
 $V2 = V2'+ V2''$</center>
 
 <b>PART(C): When Both are Current sources-</b>
-<center><img src="images/superposition/7.png"></center> <center>Figure 7: Two Current Source </center> <br>
+<center><img src="images/Superposition/7.png"></center> <center>Figure 7: Two Current Source </center> <br>
 
 In above circuit, Since we have two source of current , we will have to calculate two sets of value currents, one for the circuit with only the I in effect and one for the circuit with only the I’ in effect. <br>
 
 We have to find the branch current I2  in resistance R2 (load resistance) by using superposition theorem.
 
 <b>Step 1– </b>
-<center><img src="images/superposition/8.png"></center> <center>Figure 8: After Removal I2 Current Source </center> <br>
+<center><img src="images/Superposition/8.png"></center> <center>Figure 8: After Removal I2 Current Source </center> <br>
 
 Take the current source I alone at first, replacing current source I’ by open circuit.
 <center> 
@@ -153,7 +153,7 @@ $ I3 = 0 $ </center>
 $I = I1 = I2’......(5) $</center>
 
 <b>Step 2– </b> Take the current source I’ alone, and replacing the I by short circuit.
-<center><img src="images/superposition/9.png"></center> <center>Figure 9: After Removal I1 Current Source </center> <br>
+<center><img src="images/Superposition/9.png"></center> <center>Figure 9: After Removal I1 Current Source </center> <br>
 
 <center> 
 
@@ -351,7 +351,7 @@ Therefore, The efficiency of maximum power transfer is 50%. That’s why we can 
 
 ### <b>Disadvantages of Maximum Power Transfer Theorem:</b>
 
-1. Maximum power transfer theorem is not used in the networks like nonlinear as well as unilateral. .
+1. Maximum power transfer theorem is not used in the networks like nonlinear as well as unilateral. 
 
 2. It is not applicable in power system, due to its 50% efficiency. So the main concern of this is efficiency.
 
