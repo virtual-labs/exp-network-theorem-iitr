@@ -1,5 +1,4 @@
-### AIM
-
+ 
 <div style=font-size:18px;align:justify;>
 
  <b>1. SUPERPOSITION THEOREM </b> <br>
