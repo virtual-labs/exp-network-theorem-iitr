@@ -1,0 +1,1615 @@
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/ChartCDN.js
+   7:69      warning  'module' is not defined                     no-undef
+   7:115     warning  'define' is not defined                     no-undef
+   7:126     warning  'define' is not defined                     no-undef
+  13:12105   warning  Empty block statement                       no-empty
+  13:14027   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:14185   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:23535   warning  's' is defined but never used               no-unused-vars
+  13:23711   warning  's' is defined but never used               no-unused-vars
+  13:25644   warning  't' is defined but never used               no-unused-vars
+  13:25695   warning  'e' is defined but never used               no-unused-vars
+  13:38047   warning  't' is defined but never used               no-unused-vars
+  13:38049   warning  'e' is defined but never used               no-unused-vars
+  13:38068   warning  't' is defined but never used               no-unused-vars
+  13:38097   warning  't' is defined but never used               no-unused-vars
+  13:38099   warning  'e' is defined but never used               no-unused-vars
+  13:38101   warning  'i' is defined but never used               no-unused-vars
+  13:38125   warning  't' is defined but never used               no-unused-vars
+  13:38127   warning  'e' is defined but never used               no-unused-vars
+  13:38129   warning  'i' is defined but never used               no-unused-vars
+  13:38294   warning  't' is defined but never used               no-unused-vars
+  13:38319   warning  't' is defined but never used               no-unused-vars
+  13:40985   warning  'e.width' is assigned to itself             no-self-assign
+  13:51939   warning  't' is defined but never used               no-unused-vars
+  13:55644   warning  't' is defined but never used               no-unused-vars
+  13:55646   warning  'e' is defined but never used               no-unused-vars
+  13:55648   warning  'i' is defined but never used               no-unused-vars
+  13:55650   warning  's' is defined but never used               no-unused-vars
+  13:61822   warning  'e' is defined but never used               no-unused-vars
+  13:69206   warning  't' is defined but never used               no-unused-vars
+  13:69208   warning  'e' is defined but never used               no-unused-vars
+  13:69239   warning  't' is defined but never used               no-unused-vars
+  13:101370  warning  't' is defined but never used               no-unused-vars
+  13:101402  warning  't' is defined but never used               no-unused-vars
+  13:101404  warning  'e' is defined but never used               no-unused-vars
+  13:101426  warning  't' is defined but never used               no-unused-vars
+  13:101428  warning  'e' is defined but never used               no-unused-vars
+  13:101447  warning  't' is defined but never used               no-unused-vars
+  13:101449  warning  'e' is defined but never used               no-unused-vars
+  13:101451  warning  'i' is defined but never used               no-unused-vars
+  13:101471  warning  't' is defined but never used               no-unused-vars
+  13:101473  warning  'e' is defined but never used               no-unused-vars
+  13:101475  warning  'i' is defined but never used               no-unused-vars
+  13:101498  warning  't' is defined but never used               no-unused-vars
+  13:101500  warning  'e' is defined but never used               no-unused-vars
+  13:101502  warning  'i' is defined but never used               no-unused-vars
+  13:101523  warning  't' is defined but never used               no-unused-vars
+  13:101525  warning  'e' is defined but never used               no-unused-vars
+  13:170970  warning  'e' is defined but never used               no-unused-vars
+  13:185051  warning  'e' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/JS_Plumb(2).js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:6001   warning  'exports' is not defined                                                   no-undef
+  1:6163   warning  'exports' is not defined                                                   no-undef
+  1:8096   warning  'c' is defined but never used                                              no-unused-vars
+  1:8098   warning  'd' is defined but never used                                              no-unused-vars
+  1:8100   warning  'e' is defined but never used                                              no-unused-vars
+  1:8102   warning  'f' is defined but never used                                              no-unused-vars
+  1:8104   warning  'g' is defined but never used                                              no-unused-vars
+  1:8106   warning  'h' is defined but never used                                              no-unused-vars
+  1:8108   warning  'i' is defined but never used                                              no-unused-vars
+  1:8110   warning  'j' is defined but never used                                              no-unused-vars
+  1:10619  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11134  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13395  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14152  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14203  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14309  warning  'a' is defined but never used                                              no-unused-vars
+  1:14311  warning  'b' is defined but never used                                              no-unused-vars
+  1:14313  warning  'c' is defined but never used                                              no-unused-vars
+  1:14315  warning  'd' is defined but never used                                              no-unused-vars
+  1:15691  warning  'exports' is not defined                                                   no-undef
+  1:19508  warning  'd' is defined but never used                                              no-unused-vars
+  1:25030  warning  Empty block statement                                                      no-empty
+  1:27559  warning  'd' is defined but never used                                              no-unused-vars
+  1:28118  warning  'a' is defined but never used                                              no-unused-vars
+  1:30022  warning  'p' is already defined                                                     no-redeclare
+  2:1993   warning  'b' is defined but never used                                              no-unused-vars
+  2:2115   warning  'b' is defined but never used                                              no-unused-vars
+  2:3168   warning  'exports' is not defined                                                   no-undef
+  2:3836   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4628   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4672   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5941   warning  'd' is defined but never used                                              no-unused-vars
+  2:6071   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6103   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6258   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6290   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:8016   warning  Empty block statement                                                      no-empty
+  2:8584   warning  'exports' is not defined                                                   no-undef
+  2:11394  warning  'c' is defined but never used                                              no-unused-vars
+  2:11396  warning  'd' is defined but never used                                              no-unused-vars
+  2:13064  warning  'c' is defined but never used                                              no-unused-vars
+  2:21199  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:21297  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:24160  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:26279  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:31066  warning  'c' is defined but never used                                              no-unused-vars
+  3:16506  warning  'b' is defined but never used                                              no-unused-vars
+  3:19203  warning  'jsPlumbUtil' is not defined                                               no-undef
+  3:25783  warning  'exports' is not defined                                                   no-undef
+  3:27722  warning  'b' is defined but never used                                              no-unused-vars
+  4:3051   warning  'b' is defined but never used                                              no-unused-vars
+  4:3152   warning  'b' is defined but never used                                              no-unused-vars
+  4:4652   warning  'b' is defined but never used                                              no-unused-vars
+  4:4654   warning  'c' is defined but never used                                              no-unused-vars
+  4:6943   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:7578   warning  'c' is defined but never used                                              no-unused-vars
+  4:20397  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:24049  warning  'jsPlumbUtil' is not defined                                               no-undef
+  4:30971  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:31917  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  5:61     warning  'jsPlumb' is not defined                                                   no-undef
+  5:2562   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:7431   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:11846  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:12051  warning  'Biltong' is not defined                                                   no-undef
+  5:13219  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:15371  warning  'g' is defined but never used                                              no-unused-vars
+  5:15463  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:16519  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:20974  warning  'a' is defined but never used                                              no-unused-vars
+  5:20976  warning  'b' is defined but never used                                              no-unused-vars
+  5:21181  warning  'a' is defined but never used                                              no-unused-vars
+  5:21183  warning  'b' is defined but never used                                              no-unused-vars
+  5:21185  warning  'c' is defined but never used                                              no-unused-vars
+  5:21187  warning  'd' is defined but never used                                              no-unused-vars
+  5:22312  warning  'a' is defined but never used                                              no-unused-vars
+  6:329    warning  'a' is defined but never used                                              no-unused-vars
+  6:331    warning  'b' is defined but never used                                              no-unused-vars
+  6:333    warning  'c' is defined but never used                                              no-unused-vars
+  6:335    warning  'd' is defined but never used                                              no-unused-vars
+  6:857    warning  'd' is defined but never used                                              no-unused-vars
+  6:1305   warning  'd' is defined but never used                                              no-unused-vars
+  6:1474   warning  'a' is defined but never used                                              no-unused-vars
+  6:2636   warning  'b' is defined but never used                                              no-unused-vars
+  6:2638   warning  'c' is defined but never used                                              no-unused-vars
+  6:2640   warning  'd' is defined but never used                                              no-unused-vars
+  6:3194   warning  'a' is defined but never used                                              no-unused-vars
+  6:3196   warning  'b' is defined but never used                                              no-unused-vars
+  6:3198   warning  'd' is defined but never used                                              no-unused-vars
+  6:4057   warning  'b' is defined but never used                                              no-unused-vars
+  6:4059   warning  'c' is defined but never used                                              no-unused-vars
+  6:4061   warning  'd' is defined but never used                                              no-unused-vars
+  6:4355   warning  'a' is defined but never used                                              no-unused-vars
+  6:4357   warning  'b' is defined but never used                                              no-unused-vars
+  6:4820   warning  'e' is defined but never used                                              no-unused-vars
+  6:5278   warning  'a' is defined but never used                                              no-unused-vars
+  6:5280   warning  'b' is defined but never used                                              no-unused-vars
+  6:6018   warning  'd' is defined but never used                                              no-unused-vars
+  6:8683   warning  'jsPlumb' is not defined                                                   no-undef
+  6:10255  warning  'b' is defined but never used                                              no-unused-vars
+  6:10434  warning  'b' is defined but never used                                              no-unused-vars
+  6:10783  warning  'a' is defined but never used                                              no-unused-vars
+  6:11043  warning  'c' is defined but never used                                              no-unused-vars
+  6:15295  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:16167  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:19666  warning  'a' is defined but never used                                              no-unused-vars
+  6:19668  warning  'b' is defined but never used                                              no-unused-vars
+  6:19728  warning  'a' is defined but never used                                              no-unused-vars
+  6:19730  warning  'b' is defined but never used                                              no-unused-vars
+  6:19899  warning  'jsPlumb' is not defined                                                   no-undef
+  6:20322  warning  'a' is defined but never used                                              no-unused-vars
+  6:20324  warning  'b' is defined but never used                                              no-unused-vars
+  6:20826  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:23088  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:23196  warning  'e' is assigned a value but never used                                     no-unused-vars
+  6:23442  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:28054  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:31331  warning  'a' is defined but never used                                              no-unused-vars
+  6:31430  warning  'b' is defined but never used                                              no-unused-vars
+  7:4994   warning  'a' is defined but never used                                              no-unused-vars
+  7:5310   warning  'a' is defined but never used                                              no-unused-vars
+  7:11541  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11829  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11896  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:11921  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12521  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:13366  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13417  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14893  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:15066  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15135  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15241  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15309  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15331  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15356  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15409  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15480  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15922  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:16044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:17093  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18570  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18780  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19030  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19073  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19146  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19167  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19246  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19272  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19298  warning  'jsPlumb' is not defined                                                   no-undef
+  7:20772  warning  'a' is defined but never used                                              no-unused-vars
+  7:20774  warning  'b' is defined but never used                                              no-unused-vars
+  7:20812  warning  'a' is defined but never used                                              no-unused-vars
+  7:20814  warning  'b' is defined but never used                                              no-unused-vars
+  7:21146  warning  'b' is defined but never used                                              no-unused-vars
+  7:21787  warning  'c' is defined but never used                                              no-unused-vars
+  7:21952  warning  'c' is defined but never used                                              no-unused-vars
+  7:22122  warning  'c' is defined but never used                                              no-unused-vars
+  7:23241  warning  'a' is defined but never used                                              no-unused-vars
+  7:23243  warning  'b' is defined but never used                                              no-unused-vars
+  7:23245  warning  'c' is defined but never used                                              no-unused-vars
+  7:23322  warning  'a' is defined but never used                                              no-unused-vars
+  7:23324  warning  'b' is defined but never used                                              no-unused-vars
+  7:23326  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/JS_Plumb.js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:5929   warning  'exports' is not defined                                                   no-undef
+  1:6091   warning  'exports' is not defined                                                   no-undef
+  1:8024   warning  'c' is defined but never used                                              no-unused-vars
+  1:8026   warning  'd' is defined but never used                                              no-unused-vars
+  1:8028   warning  'e' is defined but never used                                              no-unused-vars
+  1:8030   warning  'f' is defined but never used                                              no-unused-vars
+  1:8032   warning  'g' is defined but never used                                              no-unused-vars
+  1:8034   warning  'h' is defined but never used                                              no-unused-vars
+  1:8036   warning  'i' is defined but never used                                              no-unused-vars
+  1:8038   warning  'j' is defined but never used                                              no-unused-vars
+  1:10547  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11062  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13297  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14054  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14105  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14211  warning  'a' is defined but never used                                              no-unused-vars
+  1:14213  warning  'b' is defined but never used                                              no-unused-vars
+  1:14215  warning  'c' is defined but never used                                              no-unused-vars
+  1:14217  warning  'd' is defined but never used                                              no-unused-vars
+  1:15593  warning  'exports' is not defined                                                   no-undef
+  1:19410  warning  'd' is defined but never used                                              no-unused-vars
+  1:24676  warning  Empty block statement                                                      no-empty
+  1:27203  warning  'd' is defined but never used                                              no-unused-vars
+  1:27762  warning  'a' is defined but never used                                              no-unused-vars
+  1:29666  warning  'p' is already defined                                                     no-redeclare
+  2:1605   warning  'b' is defined but never used                                              no-unused-vars
+  2:1727   warning  'b' is defined but never used                                              no-unused-vars
+  2:2780   warning  'exports' is not defined                                                   no-undef
+  2:3448   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4240   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4284   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5553   warning  'd' is defined but never used                                              no-unused-vars
+  2:5683   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5715   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5870   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5902   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:7432   warning  Empty block statement                                                      no-empty
+  2:7771   warning  'exports' is not defined                                                   no-undef
+  2:10476  warning  'c' is defined but never used                                              no-unused-vars
+  2:10478  warning  'd' is defined but never used                                              no-unused-vars
+  2:12088  warning  'c' is defined but never used                                              no-unused-vars
+  2:25125  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:29854  warning  'c' is defined but never used                                              no-unused-vars
+  3:15015  warning  'b' is defined but never used                                              no-unused-vars
+  3:24355  warning  'exports' is not defined                                                   no-undef
+  3:26260  warning  'b' is defined but never used                                              no-unused-vars
+  4:1601   warning  'b' is defined but never used                                              no-unused-vars
+  4:1702   warning  'b' is defined but never used                                              no-unused-vars
+  4:3202   warning  'b' is defined but never used                                              no-unused-vars
+  4:3204   warning  'c' is defined but never used                                              no-unused-vars
+  4:5430   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:6065   warning  'c' is defined but never used                                              no-unused-vars
+  4:18923  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:29270  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30186  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30357  warning  'jsPlumb' is not defined                                                   no-undef
+  5:10104  warning  'Biltong' is not defined                                                   no-undef
+  5:14364  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:17869  warning  'a' is defined but never used                                              no-unused-vars
+  5:17871  warning  'b' is defined but never used                                              no-unused-vars
+  5:18076  warning  'a' is defined but never used                                              no-unused-vars
+  5:18078  warning  'b' is defined but never used                                              no-unused-vars
+  5:18080  warning  'c' is defined but never used                                              no-unused-vars
+  5:18082  warning  'd' is defined but never used                                              no-unused-vars
+  5:19207  warning  'a' is defined but never used                                              no-unused-vars
+  5:28248  warning  'a' is defined but never used                                              no-unused-vars
+  5:28250  warning  'b' is defined but never used                                              no-unused-vars
+  5:28252  warning  'c' is defined but never used                                              no-unused-vars
+  5:28254  warning  'd' is defined but never used                                              no-unused-vars
+  5:28776  warning  'd' is defined but never used                                              no-unused-vars
+  5:29224  warning  'd' is defined but never used                                              no-unused-vars
+  5:29393  warning  'a' is defined but never used                                              no-unused-vars
+  5:30555  warning  'b' is defined but never used                                              no-unused-vars
+  5:30557  warning  'c' is defined but never used                                              no-unused-vars
+  5:30559  warning  'd' is defined but never used                                              no-unused-vars
+  5:31113  warning  'a' is defined but never used                                              no-unused-vars
+  5:31115  warning  'b' is defined but never used                                              no-unused-vars
+  5:31117  warning  'd' is defined but never used                                              no-unused-vars
+  5:31976  warning  'b' is defined but never used                                              no-unused-vars
+  5:31978  warning  'c' is defined but never used                                              no-unused-vars
+  5:31980  warning  'd' is defined but never used                                              no-unused-vars
+  6:270    warning  'a' is defined but never used                                              no-unused-vars
+  6:272    warning  'b' is defined but never used                                              no-unused-vars
+  6:735    warning  'e' is defined but never used                                              no-unused-vars
+  6:1193   warning  'a' is defined but never used                                              no-unused-vars
+  6:1195   warning  'b' is defined but never used                                              no-unused-vars
+  6:1933   warning  'd' is defined but never used                                              no-unused-vars
+  6:4580   warning  'jsPlumb' is not defined                                                   no-undef
+  6:6152   warning  'b' is defined but never used                                              no-unused-vars
+  6:6331   warning  'b' is defined but never used                                              no-unused-vars
+  6:6680   warning  'a' is defined but never used                                              no-unused-vars
+  6:6940   warning  'c' is defined but never used                                              no-unused-vars
+  6:10981  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:14917  warning  'a' is defined but never used                                              no-unused-vars
+  6:14919  warning  'b' is defined but never used                                              no-unused-vars
+  6:14979  warning  'a' is defined but never used                                              no-unused-vars
+  6:14981  warning  'b' is defined but never used                                              no-unused-vars
+  6:15093  warning  'jsPlumb' is not defined                                                   no-undef
+  6:15516  warning  'a' is defined but never used                                              no-unused-vars
+  6:15518  warning  'b' is defined but never used                                              no-unused-vars
+  6:15996  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:18472  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:23049  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:26326  warning  'a' is defined but never used                                              no-unused-vars
+  6:26425  warning  'b' is defined but never used                                              no-unused-vars
+  7:48     warning  'a' is defined but never used                                              no-unused-vars
+  7:364    warning  'a' is defined but never used                                              no-unused-vars
+  7:6347   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6635   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6702   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:6727   warning  'jsPlumb' is not defined                                                   no-undef
+  7:7327   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:8166   warning  'jsPlumb' is not defined                                                   no-undef
+  7:8217   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9693   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:9866   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9935   warning  'jsPlumb' is not defined                                                   no-undef
+  7:10041  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10109  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10131  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10156  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10209  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10280  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10722  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:10844  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11893  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13342  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13552  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13802  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13845  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13918  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13939  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14018  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14070  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15527  warning  'a' is defined but never used                                              no-unused-vars
+  7:15529  warning  'b' is defined but never used                                              no-unused-vars
+  7:15567  warning  'a' is defined but never used                                              no-unused-vars
+  7:15569  warning  'b' is defined but never used                                              no-unused-vars
+  7:15901  warning  'b' is defined but never used                                              no-unused-vars
+  7:16542  warning  'c' is defined but never used                                              no-unused-vars
+  7:16707  warning  'c' is defined but never used                                              no-unused-vars
+  7:16877  warning  'c' is defined but never used                                              no-unused-vars
+  7:17860  warning  'a' is defined but never used                                              no-unused-vars
+  7:17862  warning  'b' is defined but never used                                              no-unused-vars
+  7:17864  warning  'c' is defined but never used                                              no-unused-vars
+  7:17941  warning  'a' is defined but never used                                              no-unused-vars
+  7:17943  warning  'b' is defined but never used                                              no-unused-vars
+  7:17945  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Maximum/CDN_folder/ChartCDN.js
+   7:69      warning  'module' is not defined                     no-undef
+   7:115     warning  'define' is not defined                     no-undef
+   7:126     warning  'define' is not defined                     no-undef
+  13:12105   warning  Empty block statement                       no-empty
+  13:14027   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:14185   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:23535   warning  's' is defined but never used               no-unused-vars
+  13:23711   warning  's' is defined but never used               no-unused-vars
+  13:25644   warning  't' is defined but never used               no-unused-vars
+  13:25695   warning  'e' is defined but never used               no-unused-vars
+  13:38047   warning  't' is defined but never used               no-unused-vars
+  13:38049   warning  'e' is defined but never used               no-unused-vars
+  13:38068   warning  't' is defined but never used               no-unused-vars
+  13:38097   warning  't' is defined but never used               no-unused-vars
+  13:38099   warning  'e' is defined but never used               no-unused-vars
+  13:38101   warning  'i' is defined but never used               no-unused-vars
+  13:38125   warning  't' is defined but never used               no-unused-vars
+  13:38127   warning  'e' is defined but never used               no-unused-vars
+  13:38129   warning  'i' is defined but never used               no-unused-vars
+  13:38294   warning  't' is defined but never used               no-unused-vars
+  13:38319   warning  't' is defined but never used               no-unused-vars
+  13:40985   warning  'e.width' is assigned to itself             no-self-assign
+  13:51939   warning  't' is defined but never used               no-unused-vars
+  13:55644   warning  't' is defined but never used               no-unused-vars
+  13:55646   warning  'e' is defined but never used               no-unused-vars
+  13:55648   warning  'i' is defined but never used               no-unused-vars
+  13:55650   warning  's' is defined but never used               no-unused-vars
+  13:61822   warning  'e' is defined but never used               no-unused-vars
+  13:69206   warning  't' is defined but never used               no-unused-vars
+  13:69208   warning  'e' is defined but never used               no-unused-vars
+  13:69239   warning  't' is defined but never used               no-unused-vars
+  13:101370  warning  't' is defined but never used               no-unused-vars
+  13:101402  warning  't' is defined but never used               no-unused-vars
+  13:101404  warning  'e' is defined but never used               no-unused-vars
+  13:101426  warning  't' is defined but never used               no-unused-vars
+  13:101428  warning  'e' is defined but never used               no-unused-vars
+  13:101447  warning  't' is defined but never used               no-unused-vars
+  13:101449  warning  'e' is defined but never used               no-unused-vars
+  13:101451  warning  'i' is defined but never used               no-unused-vars
+  13:101471  warning  't' is defined but never used               no-unused-vars
+  13:101473  warning  'e' is defined but never used               no-unused-vars
+  13:101475  warning  'i' is defined but never used               no-unused-vars
+  13:101498  warning  't' is defined but never used               no-unused-vars
+  13:101500  warning  'e' is defined but never used               no-unused-vars
+  13:101502  warning  'i' is defined but never used               no-unused-vars
+  13:101523  warning  't' is defined but never used               no-unused-vars
+  13:101525  warning  'e' is defined but never used               no-unused-vars
+  13:170970  warning  'e' is defined but never used               no-unused-vars
+  13:185051  warning  'e' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Maximum/CDN_folder/JS_Plumb(2).js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:6001   warning  'exports' is not defined                                                   no-undef
+  1:6163   warning  'exports' is not defined                                                   no-undef
+  1:8096   warning  'c' is defined but never used                                              no-unused-vars
+  1:8098   warning  'd' is defined but never used                                              no-unused-vars
+  1:8100   warning  'e' is defined but never used                                              no-unused-vars
+  1:8102   warning  'f' is defined but never used                                              no-unused-vars
+  1:8104   warning  'g' is defined but never used                                              no-unused-vars
+  1:8106   warning  'h' is defined but never used                                              no-unused-vars
+  1:8108   warning  'i' is defined but never used                                              no-unused-vars
+  1:8110   warning  'j' is defined but never used                                              no-unused-vars
+  1:10619  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11134  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13395  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14152  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14203  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14309  warning  'a' is defined but never used                                              no-unused-vars
+  1:14311  warning  'b' is defined but never used                                              no-unused-vars
+  1:14313  warning  'c' is defined but never used                                              no-unused-vars
+  1:14315  warning  'd' is defined but never used                                              no-unused-vars
+  1:15691  warning  'exports' is not defined                                                   no-undef
+  1:19508  warning  'd' is defined but never used                                              no-unused-vars
+  1:25030  warning  Empty block statement                                                      no-empty
+  1:27559  warning  'd' is defined but never used                                              no-unused-vars
+  1:28118  warning  'a' is defined but never used                                              no-unused-vars
+  1:30022  warning  'p' is already defined                                                     no-redeclare
+  2:1993   warning  'b' is defined but never used                                              no-unused-vars
+  2:2115   warning  'b' is defined but never used                                              no-unused-vars
+  2:3168   warning  'exports' is not defined                                                   no-undef
+  2:3836   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4628   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4672   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5941   warning  'd' is defined but never used                                              no-unused-vars
+  2:6071   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6103   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6258   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6290   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:8016   warning  Empty block statement                                                      no-empty
+  2:8584   warning  'exports' is not defined                                                   no-undef
+  2:11394  warning  'c' is defined but never used                                              no-unused-vars
+  2:11396  warning  'd' is defined but never used                                              no-unused-vars
+  2:13064  warning  'c' is defined but never used                                              no-unused-vars
+  2:21199  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:21297  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:24160  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:26279  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:31066  warning  'c' is defined but never used                                              no-unused-vars
+  3:16506  warning  'b' is defined but never used                                              no-unused-vars
+  3:19203  warning  'jsPlumbUtil' is not defined                                               no-undef
+  3:25783  warning  'exports' is not defined                                                   no-undef
+  3:27722  warning  'b' is defined but never used                                              no-unused-vars
+  4:3051   warning  'b' is defined but never used                                              no-unused-vars
+  4:3152   warning  'b' is defined but never used                                              no-unused-vars
+  4:4652   warning  'b' is defined but never used                                              no-unused-vars
+  4:4654   warning  'c' is defined but never used                                              no-unused-vars
+  4:6943   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:7578   warning  'c' is defined but never used                                              no-unused-vars
+  4:20397  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:24049  warning  'jsPlumbUtil' is not defined                                               no-undef
+  4:30971  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:31917  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  5:61     warning  'jsPlumb' is not defined                                                   no-undef
+  5:2562   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:7431   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:11846  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:12051  warning  'Biltong' is not defined                                                   no-undef
+  5:13219  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:15371  warning  'g' is defined but never used                                              no-unused-vars
+  5:15463  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:16519  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:20974  warning  'a' is defined but never used                                              no-unused-vars
+  5:20976  warning  'b' is defined but never used                                              no-unused-vars
+  5:21181  warning  'a' is defined but never used                                              no-unused-vars
+  5:21183  warning  'b' is defined but never used                                              no-unused-vars
+  5:21185  warning  'c' is defined but never used                                              no-unused-vars
+  5:21187  warning  'd' is defined but never used                                              no-unused-vars
+  5:22312  warning  'a' is defined but never used                                              no-unused-vars
+  6:329    warning  'a' is defined but never used                                              no-unused-vars
+  6:331    warning  'b' is defined but never used                                              no-unused-vars
+  6:333    warning  'c' is defined but never used                                              no-unused-vars
+  6:335    warning  'd' is defined but never used                                              no-unused-vars
+  6:857    warning  'd' is defined but never used                                              no-unused-vars
+  6:1305   warning  'd' is defined but never used                                              no-unused-vars
+  6:1474   warning  'a' is defined but never used                                              no-unused-vars
+  6:2636   warning  'b' is defined but never used                                              no-unused-vars
+  6:2638   warning  'c' is defined but never used                                              no-unused-vars
+  6:2640   warning  'd' is defined but never used                                              no-unused-vars
+  6:3194   warning  'a' is defined but never used                                              no-unused-vars
+  6:3196   warning  'b' is defined but never used                                              no-unused-vars
+  6:3198   warning  'd' is defined but never used                                              no-unused-vars
+  6:4057   warning  'b' is defined but never used                                              no-unused-vars
+  6:4059   warning  'c' is defined but never used                                              no-unused-vars
+  6:4061   warning  'd' is defined but never used                                              no-unused-vars
+  6:4355   warning  'a' is defined but never used                                              no-unused-vars
+  6:4357   warning  'b' is defined but never used                                              no-unused-vars
+  6:4820   warning  'e' is defined but never used                                              no-unused-vars
+  6:5278   warning  'a' is defined but never used                                              no-unused-vars
+  6:5280   warning  'b' is defined but never used                                              no-unused-vars
+  6:6018   warning  'd' is defined but never used                                              no-unused-vars
+  6:8683   warning  'jsPlumb' is not defined                                                   no-undef
+  6:10255  warning  'b' is defined but never used                                              no-unused-vars
+  6:10434  warning  'b' is defined but never used                                              no-unused-vars
+  6:10783  warning  'a' is defined but never used                                              no-unused-vars
+  6:11043  warning  'c' is defined but never used                                              no-unused-vars
+  6:15295  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:16167  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:19666  warning  'a' is defined but never used                                              no-unused-vars
+  6:19668  warning  'b' is defined but never used                                              no-unused-vars
+  6:19728  warning  'a' is defined but never used                                              no-unused-vars
+  6:19730  warning  'b' is defined but never used                                              no-unused-vars
+  6:19899  warning  'jsPlumb' is not defined                                                   no-undef
+  6:20322  warning  'a' is defined but never used                                              no-unused-vars
+  6:20324  warning  'b' is defined but never used                                              no-unused-vars
+  6:20826  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:23088  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:23196  warning  'e' is assigned a value but never used                                     no-unused-vars
+  6:23442  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:28054  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:31331  warning  'a' is defined but never used                                              no-unused-vars
+  6:31430  warning  'b' is defined but never used                                              no-unused-vars
+  7:4994   warning  'a' is defined but never used                                              no-unused-vars
+  7:5310   warning  'a' is defined but never used                                              no-unused-vars
+  7:11541  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11829  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11896  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:11921  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12521  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:13366  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13417  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14893  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:15066  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15135  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15241  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15309  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15331  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15356  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15409  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15480  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15922  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:16044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:17093  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18570  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18780  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19030  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19073  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19146  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19167  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19246  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19272  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19298  warning  'jsPlumb' is not defined                                                   no-undef
+  7:20772  warning  'a' is defined but never used                                              no-unused-vars
+  7:20774  warning  'b' is defined but never used                                              no-unused-vars
+  7:20812  warning  'a' is defined but never used                                              no-unused-vars
+  7:20814  warning  'b' is defined but never used                                              no-unused-vars
+  7:21146  warning  'b' is defined but never used                                              no-unused-vars
+  7:21787  warning  'c' is defined but never used                                              no-unused-vars
+  7:21952  warning  'c' is defined but never used                                              no-unused-vars
+  7:22122  warning  'c' is defined but never used                                              no-unused-vars
+  7:23241  warning  'a' is defined but never used                                              no-unused-vars
+  7:23243  warning  'b' is defined but never used                                              no-unused-vars
+  7:23245  warning  'c' is defined but never used                                              no-unused-vars
+  7:23322  warning  'a' is defined but never used                                              no-unused-vars
+  7:23324  warning  'b' is defined but never used                                              no-unused-vars
+  7:23326  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Maximum/CDN_folder/JS_Plumb.js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:5929   warning  'exports' is not defined                                                   no-undef
+  1:6091   warning  'exports' is not defined                                                   no-undef
+  1:8024   warning  'c' is defined but never used                                              no-unused-vars
+  1:8026   warning  'd' is defined but never used                                              no-unused-vars
+  1:8028   warning  'e' is defined but never used                                              no-unused-vars
+  1:8030   warning  'f' is defined but never used                                              no-unused-vars
+  1:8032   warning  'g' is defined but never used                                              no-unused-vars
+  1:8034   warning  'h' is defined but never used                                              no-unused-vars
+  1:8036   warning  'i' is defined but never used                                              no-unused-vars
+  1:8038   warning  'j' is defined but never used                                              no-unused-vars
+  1:10547  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11062  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13297  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14054  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14105  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14211  warning  'a' is defined but never used                                              no-unused-vars
+  1:14213  warning  'b' is defined but never used                                              no-unused-vars
+  1:14215  warning  'c' is defined but never used                                              no-unused-vars
+  1:14217  warning  'd' is defined but never used                                              no-unused-vars
+  1:15593  warning  'exports' is not defined                                                   no-undef
+  1:19410  warning  'd' is defined but never used                                              no-unused-vars
+  1:24676  warning  Empty block statement                                                      no-empty
+  1:27203  warning  'd' is defined but never used                                              no-unused-vars
+  1:27762  warning  'a' is defined but never used                                              no-unused-vars
+  1:29666  warning  'p' is already defined                                                     no-redeclare
+  2:1605   warning  'b' is defined but never used                                              no-unused-vars
+  2:1727   warning  'b' is defined but never used                                              no-unused-vars
+  2:2780   warning  'exports' is not defined                                                   no-undef
+  2:3448   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4240   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4284   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5553   warning  'd' is defined but never used                                              no-unused-vars
+  2:5683   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5715   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5870   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5902   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:7432   warning  Empty block statement                                                      no-empty
+  2:7771   warning  'exports' is not defined                                                   no-undef
+  2:10476  warning  'c' is defined but never used                                              no-unused-vars
+  2:10478  warning  'd' is defined but never used                                              no-unused-vars
+  2:12088  warning  'c' is defined but never used                                              no-unused-vars
+  2:25125  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:29854  warning  'c' is defined but never used                                              no-unused-vars
+  3:15015  warning  'b' is defined but never used                                              no-unused-vars
+  3:24355  warning  'exports' is not defined                                                   no-undef
+  3:26260  warning  'b' is defined but never used                                              no-unused-vars
+  4:1601   warning  'b' is defined but never used                                              no-unused-vars
+  4:1702   warning  'b' is defined but never used                                              no-unused-vars
+  4:3202   warning  'b' is defined but never used                                              no-unused-vars
+  4:3204   warning  'c' is defined but never used                                              no-unused-vars
+  4:5430   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:6065   warning  'c' is defined but never used                                              no-unused-vars
+  4:18923  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:29270  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30186  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30357  warning  'jsPlumb' is not defined                                                   no-undef
+  5:10104  warning  'Biltong' is not defined                                                   no-undef
+  5:14364  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:17869  warning  'a' is defined but never used                                              no-unused-vars
+  5:17871  warning  'b' is defined but never used                                              no-unused-vars
+  5:18076  warning  'a' is defined but never used                                              no-unused-vars
+  5:18078  warning  'b' is defined but never used                                              no-unused-vars
+  5:18080  warning  'c' is defined but never used                                              no-unused-vars
+  5:18082  warning  'd' is defined but never used                                              no-unused-vars
+  5:19207  warning  'a' is defined but never used                                              no-unused-vars
+  5:28248  warning  'a' is defined but never used                                              no-unused-vars
+  5:28250  warning  'b' is defined but never used                                              no-unused-vars
+  5:28252  warning  'c' is defined but never used                                              no-unused-vars
+  5:28254  warning  'd' is defined but never used                                              no-unused-vars
+  5:28776  warning  'd' is defined but never used                                              no-unused-vars
+  5:29224  warning  'd' is defined but never used                                              no-unused-vars
+  5:29393  warning  'a' is defined but never used                                              no-unused-vars
+  5:30555  warning  'b' is defined but never used                                              no-unused-vars
+  5:30557  warning  'c' is defined but never used                                              no-unused-vars
+  5:30559  warning  'd' is defined but never used                                              no-unused-vars
+  5:31113  warning  'a' is defined but never used                                              no-unused-vars
+  5:31115  warning  'b' is defined but never used                                              no-unused-vars
+  5:31117  warning  'd' is defined but never used                                              no-unused-vars
+  5:31976  warning  'b' is defined but never used                                              no-unused-vars
+  5:31978  warning  'c' is defined but never used                                              no-unused-vars
+  5:31980  warning  'd' is defined but never used                                              no-unused-vars
+  6:270    warning  'a' is defined but never used                                              no-unused-vars
+  6:272    warning  'b' is defined but never used                                              no-unused-vars
+  6:735    warning  'e' is defined but never used                                              no-unused-vars
+  6:1193   warning  'a' is defined but never used                                              no-unused-vars
+  6:1195   warning  'b' is defined but never used                                              no-unused-vars
+  6:1933   warning  'd' is defined but never used                                              no-unused-vars
+  6:4580   warning  'jsPlumb' is not defined                                                   no-undef
+  6:6152   warning  'b' is defined but never used                                              no-unused-vars
+  6:6331   warning  'b' is defined but never used                                              no-unused-vars
+  6:6680   warning  'a' is defined but never used                                              no-unused-vars
+  6:6940   warning  'c' is defined but never used                                              no-unused-vars
+  6:10981  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:14917  warning  'a' is defined but never used                                              no-unused-vars
+  6:14919  warning  'b' is defined but never used                                              no-unused-vars
+  6:14979  warning  'a' is defined but never used                                              no-unused-vars
+  6:14981  warning  'b' is defined but never used                                              no-unused-vars
+  6:15093  warning  'jsPlumb' is not defined                                                   no-undef
+  6:15516  warning  'a' is defined but never used                                              no-unused-vars
+  6:15518  warning  'b' is defined but never used                                              no-unused-vars
+  6:15996  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:18472  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:23049  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:26326  warning  'a' is defined but never used                                              no-unused-vars
+  6:26425  warning  'b' is defined but never used                                              no-unused-vars
+  7:48     warning  'a' is defined but never used                                              no-unused-vars
+  7:364    warning  'a' is defined but never used                                              no-unused-vars
+  7:6347   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6635   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6702   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:6727   warning  'jsPlumb' is not defined                                                   no-undef
+  7:7327   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:8166   warning  'jsPlumb' is not defined                                                   no-undef
+  7:8217   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9693   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:9866   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9935   warning  'jsPlumb' is not defined                                                   no-undef
+  7:10041  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10109  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10131  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10156  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10209  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10280  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10722  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:10844  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11893  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13342  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13552  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13802  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13845  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13918  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13939  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14018  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14070  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15527  warning  'a' is defined but never used                                              no-unused-vars
+  7:15529  warning  'b' is defined but never used                                              no-unused-vars
+  7:15567  warning  'a' is defined but never used                                              no-unused-vars
+  7:15569  warning  'b' is defined but never used                                              no-unused-vars
+  7:15901  warning  'b' is defined but never used                                              no-unused-vars
+  7:16542  warning  'c' is defined but never used                                              no-unused-vars
+  7:16707  warning  'c' is defined but never used                                              no-unused-vars
+  7:16877  warning  'c' is defined but never used                                              no-unused-vars
+  7:17860  warning  'a' is defined but never used                                              no-unused-vars
+  7:17862  warning  'b' is defined but never used                                              no-unused-vars
+  7:17864  warning  'c' is defined but never used                                              no-unused-vars
+  7:17941  warning  'a' is defined but never used                                              no-unused-vars
+  7:17943  warning  'b' is defined but never used                                              no-unused-vars
+  7:17945  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Norton/CDN_folder/ChartCDN.js
+   7:69      warning  'module' is not defined                     no-undef
+   7:115     warning  'define' is not defined                     no-undef
+   7:126     warning  'define' is not defined                     no-undef
+  13:12105   warning  Empty block statement                       no-empty
+  13:14027   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:14185   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:23535   warning  's' is defined but never used               no-unused-vars
+  13:23711   warning  's' is defined but never used               no-unused-vars
+  13:25644   warning  't' is defined but never used               no-unused-vars
+  13:25695   warning  'e' is defined but never used               no-unused-vars
+  13:38047   warning  't' is defined but never used               no-unused-vars
+  13:38049   warning  'e' is defined but never used               no-unused-vars
+  13:38068   warning  't' is defined but never used               no-unused-vars
+  13:38097   warning  't' is defined but never used               no-unused-vars
+  13:38099   warning  'e' is defined but never used               no-unused-vars
+  13:38101   warning  'i' is defined but never used               no-unused-vars
+  13:38125   warning  't' is defined but never used               no-unused-vars
+  13:38127   warning  'e' is defined but never used               no-unused-vars
+  13:38129   warning  'i' is defined but never used               no-unused-vars
+  13:38294   warning  't' is defined but never used               no-unused-vars
+  13:38319   warning  't' is defined but never used               no-unused-vars
+  13:40985   warning  'e.width' is assigned to itself             no-self-assign
+  13:51939   warning  't' is defined but never used               no-unused-vars
+  13:55644   warning  't' is defined but never used               no-unused-vars
+  13:55646   warning  'e' is defined but never used               no-unused-vars
+  13:55648   warning  'i' is defined but never used               no-unused-vars
+  13:55650   warning  's' is defined but never used               no-unused-vars
+  13:61822   warning  'e' is defined but never used               no-unused-vars
+  13:69206   warning  't' is defined but never used               no-unused-vars
+  13:69208   warning  'e' is defined but never used               no-unused-vars
+  13:69239   warning  't' is defined but never used               no-unused-vars
+  13:101370  warning  't' is defined but never used               no-unused-vars
+  13:101402  warning  't' is defined but never used               no-unused-vars
+  13:101404  warning  'e' is defined but never used               no-unused-vars
+  13:101426  warning  't' is defined but never used               no-unused-vars
+  13:101428  warning  'e' is defined but never used               no-unused-vars
+  13:101447  warning  't' is defined but never used               no-unused-vars
+  13:101449  warning  'e' is defined but never used               no-unused-vars
+  13:101451  warning  'i' is defined but never used               no-unused-vars
+  13:101471  warning  't' is defined but never used               no-unused-vars
+  13:101473  warning  'e' is defined but never used               no-unused-vars
+  13:101475  warning  'i' is defined but never used               no-unused-vars
+  13:101498  warning  't' is defined but never used               no-unused-vars
+  13:101500  warning  'e' is defined but never used               no-unused-vars
+  13:101502  warning  'i' is defined but never used               no-unused-vars
+  13:101523  warning  't' is defined but never used               no-unused-vars
+  13:101525  warning  'e' is defined but never used               no-unused-vars
+  13:170970  warning  'e' is defined but never used               no-unused-vars
+  13:185051  warning  'e' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Norton/CDN_folder/JS_Plumb(2).js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:6001   warning  'exports' is not defined                                                   no-undef
+  1:6163   warning  'exports' is not defined                                                   no-undef
+  1:8096   warning  'c' is defined but never used                                              no-unused-vars
+  1:8098   warning  'd' is defined but never used                                              no-unused-vars
+  1:8100   warning  'e' is defined but never used                                              no-unused-vars
+  1:8102   warning  'f' is defined but never used                                              no-unused-vars
+  1:8104   warning  'g' is defined but never used                                              no-unused-vars
+  1:8106   warning  'h' is defined but never used                                              no-unused-vars
+  1:8108   warning  'i' is defined but never used                                              no-unused-vars
+  1:8110   warning  'j' is defined but never used                                              no-unused-vars
+  1:10619  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11134  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13395  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14152  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14203  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14309  warning  'a' is defined but never used                                              no-unused-vars
+  1:14311  warning  'b' is defined but never used                                              no-unused-vars
+  1:14313  warning  'c' is defined but never used                                              no-unused-vars
+  1:14315  warning  'd' is defined but never used                                              no-unused-vars
+  1:15691  warning  'exports' is not defined                                                   no-undef
+  1:19508  warning  'd' is defined but never used                                              no-unused-vars
+  1:25030  warning  Empty block statement                                                      no-empty
+  1:27559  warning  'd' is defined but never used                                              no-unused-vars
+  1:28118  warning  'a' is defined but never used                                              no-unused-vars
+  1:30022  warning  'p' is already defined                                                     no-redeclare
+  2:1993   warning  'b' is defined but never used                                              no-unused-vars
+  2:2115   warning  'b' is defined but never used                                              no-unused-vars
+  2:3168   warning  'exports' is not defined                                                   no-undef
+  2:3836   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4628   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4672   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5941   warning  'd' is defined but never used                                              no-unused-vars
+  2:6071   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6103   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6258   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6290   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:8016   warning  Empty block statement                                                      no-empty
+  2:8584   warning  'exports' is not defined                                                   no-undef
+  2:11394  warning  'c' is defined but never used                                              no-unused-vars
+  2:11396  warning  'd' is defined but never used                                              no-unused-vars
+  2:13064  warning  'c' is defined but never used                                              no-unused-vars
+  2:21199  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:21297  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:24160  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:26279  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:31066  warning  'c' is defined but never used                                              no-unused-vars
+  3:16506  warning  'b' is defined but never used                                              no-unused-vars
+  3:19203  warning  'jsPlumbUtil' is not defined                                               no-undef
+  3:25783  warning  'exports' is not defined                                                   no-undef
+  3:27722  warning  'b' is defined but never used                                              no-unused-vars
+  4:3051   warning  'b' is defined but never used                                              no-unused-vars
+  4:3152   warning  'b' is defined but never used                                              no-unused-vars
+  4:4652   warning  'b' is defined but never used                                              no-unused-vars
+  4:4654   warning  'c' is defined but never used                                              no-unused-vars
+  4:6943   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:7578   warning  'c' is defined but never used                                              no-unused-vars
+  4:20397  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:24049  warning  'jsPlumbUtil' is not defined                                               no-undef
+  4:30971  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:31917  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  5:61     warning  'jsPlumb' is not defined                                                   no-undef
+  5:2562   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:7431   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:11846  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:12051  warning  'Biltong' is not defined                                                   no-undef
+  5:13219  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:15371  warning  'g' is defined but never used                                              no-unused-vars
+  5:15463  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:16519  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:20974  warning  'a' is defined but never used                                              no-unused-vars
+  5:20976  warning  'b' is defined but never used                                              no-unused-vars
+  5:21181  warning  'a' is defined but never used                                              no-unused-vars
+  5:21183  warning  'b' is defined but never used                                              no-unused-vars
+  5:21185  warning  'c' is defined but never used                                              no-unused-vars
+  5:21187  warning  'd' is defined but never used                                              no-unused-vars
+  5:22312  warning  'a' is defined but never used                                              no-unused-vars
+  6:329    warning  'a' is defined but never used                                              no-unused-vars
+  6:331    warning  'b' is defined but never used                                              no-unused-vars
+  6:333    warning  'c' is defined but never used                                              no-unused-vars
+  6:335    warning  'd' is defined but never used                                              no-unused-vars
+  6:857    warning  'd' is defined but never used                                              no-unused-vars
+  6:1305   warning  'd' is defined but never used                                              no-unused-vars
+  6:1474   warning  'a' is defined but never used                                              no-unused-vars
+  6:2636   warning  'b' is defined but never used                                              no-unused-vars
+  6:2638   warning  'c' is defined but never used                                              no-unused-vars
+  6:2640   warning  'd' is defined but never used                                              no-unused-vars
+  6:3194   warning  'a' is defined but never used                                              no-unused-vars
+  6:3196   warning  'b' is defined but never used                                              no-unused-vars
+  6:3198   warning  'd' is defined but never used                                              no-unused-vars
+  6:4057   warning  'b' is defined but never used                                              no-unused-vars
+  6:4059   warning  'c' is defined but never used                                              no-unused-vars
+  6:4061   warning  'd' is defined but never used                                              no-unused-vars
+  6:4355   warning  'a' is defined but never used                                              no-unused-vars
+  6:4357   warning  'b' is defined but never used                                              no-unused-vars
+  6:4820   warning  'e' is defined but never used                                              no-unused-vars
+  6:5278   warning  'a' is defined but never used                                              no-unused-vars
+  6:5280   warning  'b' is defined but never used                                              no-unused-vars
+  6:6018   warning  'd' is defined but never used                                              no-unused-vars
+  6:8683   warning  'jsPlumb' is not defined                                                   no-undef
+  6:10255  warning  'b' is defined but never used                                              no-unused-vars
+  6:10434  warning  'b' is defined but never used                                              no-unused-vars
+  6:10783  warning  'a' is defined but never used                                              no-unused-vars
+  6:11043  warning  'c' is defined but never used                                              no-unused-vars
+  6:15295  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:16167  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:19666  warning  'a' is defined but never used                                              no-unused-vars
+  6:19668  warning  'b' is defined but never used                                              no-unused-vars
+  6:19728  warning  'a' is defined but never used                                              no-unused-vars
+  6:19730  warning  'b' is defined but never used                                              no-unused-vars
+  6:19899  warning  'jsPlumb' is not defined                                                   no-undef
+  6:20322  warning  'a' is defined but never used                                              no-unused-vars
+  6:20324  warning  'b' is defined but never used                                              no-unused-vars
+  6:20826  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:23088  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:23196  warning  'e' is assigned a value but never used                                     no-unused-vars
+  6:23442  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:28054  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:31331  warning  'a' is defined but never used                                              no-unused-vars
+  6:31430  warning  'b' is defined but never used                                              no-unused-vars
+  7:4994   warning  'a' is defined but never used                                              no-unused-vars
+  7:5310   warning  'a' is defined but never used                                              no-unused-vars
+  7:11541  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11829  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11896  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:11921  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12521  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:13366  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13417  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14893  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:15066  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15135  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15241  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15309  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15331  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15356  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15409  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15480  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15922  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:16044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:17093  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18570  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18780  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19030  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19073  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19146  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19167  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19246  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19272  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19298  warning  'jsPlumb' is not defined                                                   no-undef
+  7:20772  warning  'a' is defined but never used                                              no-unused-vars
+  7:20774  warning  'b' is defined but never used                                              no-unused-vars
+  7:20812  warning  'a' is defined but never used                                              no-unused-vars
+  7:20814  warning  'b' is defined but never used                                              no-unused-vars
+  7:21146  warning  'b' is defined but never used                                              no-unused-vars
+  7:21787  warning  'c' is defined but never used                                              no-unused-vars
+  7:21952  warning  'c' is defined but never used                                              no-unused-vars
+  7:22122  warning  'c' is defined but never used                                              no-unused-vars
+  7:23241  warning  'a' is defined but never used                                              no-unused-vars
+  7:23243  warning  'b' is defined but never used                                              no-unused-vars
+  7:23245  warning  'c' is defined but never used                                              no-unused-vars
+  7:23322  warning  'a' is defined but never used                                              no-unused-vars
+  7:23324  warning  'b' is defined but never used                                              no-unused-vars
+  7:23326  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Norton/CDN_folder/JS_Plumb.js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:5929   warning  'exports' is not defined                                                   no-undef
+  1:6091   warning  'exports' is not defined                                                   no-undef
+  1:8024   warning  'c' is defined but never used                                              no-unused-vars
+  1:8026   warning  'd' is defined but never used                                              no-unused-vars
+  1:8028   warning  'e' is defined but never used                                              no-unused-vars
+  1:8030   warning  'f' is defined but never used                                              no-unused-vars
+  1:8032   warning  'g' is defined but never used                                              no-unused-vars
+  1:8034   warning  'h' is defined but never used                                              no-unused-vars
+  1:8036   warning  'i' is defined but never used                                              no-unused-vars
+  1:8038   warning  'j' is defined but never used                                              no-unused-vars
+  1:10547  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11062  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13297  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14054  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14105  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14211  warning  'a' is defined but never used                                              no-unused-vars
+  1:14213  warning  'b' is defined but never used                                              no-unused-vars
+  1:14215  warning  'c' is defined but never used                                              no-unused-vars
+  1:14217  warning  'd' is defined but never used                                              no-unused-vars
+  1:15593  warning  'exports' is not defined                                                   no-undef
+  1:19410  warning  'd' is defined but never used                                              no-unused-vars
+  1:24676  warning  Empty block statement                                                      no-empty
+  1:27203  warning  'd' is defined but never used                                              no-unused-vars
+  1:27762  warning  'a' is defined but never used                                              no-unused-vars
+  1:29666  warning  'p' is already defined                                                     no-redeclare
+  2:1605   warning  'b' is defined but never used                                              no-unused-vars
+  2:1727   warning  'b' is defined but never used                                              no-unused-vars
+  2:2780   warning  'exports' is not defined                                                   no-undef
+  2:3448   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4240   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4284   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5553   warning  'd' is defined but never used                                              no-unused-vars
+  2:5683   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5715   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5870   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5902   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:7432   warning  Empty block statement                                                      no-empty
+  2:7771   warning  'exports' is not defined                                                   no-undef
+  2:10476  warning  'c' is defined but never used                                              no-unused-vars
+  2:10478  warning  'd' is defined but never used                                              no-unused-vars
+  2:12088  warning  'c' is defined but never used                                              no-unused-vars
+  2:25125  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:29854  warning  'c' is defined but never used                                              no-unused-vars
+  3:15015  warning  'b' is defined but never used                                              no-unused-vars
+  3:24355  warning  'exports' is not defined                                                   no-undef
+  3:26260  warning  'b' is defined but never used                                              no-unused-vars
+  4:1601   warning  'b' is defined but never used                                              no-unused-vars
+  4:1702   warning  'b' is defined but never used                                              no-unused-vars
+  4:3202   warning  'b' is defined but never used                                              no-unused-vars
+  4:3204   warning  'c' is defined but never used                                              no-unused-vars
+  4:5430   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:6065   warning  'c' is defined but never used                                              no-unused-vars
+  4:18923  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:29270  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30186  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30357  warning  'jsPlumb' is not defined                                                   no-undef
+  5:10104  warning  'Biltong' is not defined                                                   no-undef
+  5:14364  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:17869  warning  'a' is defined but never used                                              no-unused-vars
+  5:17871  warning  'b' is defined but never used                                              no-unused-vars
+  5:18076  warning  'a' is defined but never used                                              no-unused-vars
+  5:18078  warning  'b' is defined but never used                                              no-unused-vars
+  5:18080  warning  'c' is defined but never used                                              no-unused-vars
+  5:18082  warning  'd' is defined but never used                                              no-unused-vars
+  5:19207  warning  'a' is defined but never used                                              no-unused-vars
+  5:28248  warning  'a' is defined but never used                                              no-unused-vars
+  5:28250  warning  'b' is defined but never used                                              no-unused-vars
+  5:28252  warning  'c' is defined but never used                                              no-unused-vars
+  5:28254  warning  'd' is defined but never used                                              no-unused-vars
+  5:28776  warning  'd' is defined but never used                                              no-unused-vars
+  5:29224  warning  'd' is defined but never used                                              no-unused-vars
+  5:29393  warning  'a' is defined but never used                                              no-unused-vars
+  5:30555  warning  'b' is defined but never used                                              no-unused-vars
+  5:30557  warning  'c' is defined but never used                                              no-unused-vars
+  5:30559  warning  'd' is defined but never used                                              no-unused-vars
+  5:31113  warning  'a' is defined but never used                                              no-unused-vars
+  5:31115  warning  'b' is defined but never used                                              no-unused-vars
+  5:31117  warning  'd' is defined but never used                                              no-unused-vars
+  5:31976  warning  'b' is defined but never used                                              no-unused-vars
+  5:31978  warning  'c' is defined but never used                                              no-unused-vars
+  5:31980  warning  'd' is defined but never used                                              no-unused-vars
+  6:270    warning  'a' is defined but never used                                              no-unused-vars
+  6:272    warning  'b' is defined but never used                                              no-unused-vars
+  6:735    warning  'e' is defined but never used                                              no-unused-vars
+  6:1193   warning  'a' is defined but never used                                              no-unused-vars
+  6:1195   warning  'b' is defined but never used                                              no-unused-vars
+  6:1933   warning  'd' is defined but never used                                              no-unused-vars
+  6:4580   warning  'jsPlumb' is not defined                                                   no-undef
+  6:6152   warning  'b' is defined but never used                                              no-unused-vars
+  6:6331   warning  'b' is defined but never used                                              no-unused-vars
+  6:6680   warning  'a' is defined but never used                                              no-unused-vars
+  6:6940   warning  'c' is defined but never used                                              no-unused-vars
+  6:10981  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:14917  warning  'a' is defined but never used                                              no-unused-vars
+  6:14919  warning  'b' is defined but never used                                              no-unused-vars
+  6:14979  warning  'a' is defined but never used                                              no-unused-vars
+  6:14981  warning  'b' is defined but never used                                              no-unused-vars
+  6:15093  warning  'jsPlumb' is not defined                                                   no-undef
+  6:15516  warning  'a' is defined but never used                                              no-unused-vars
+  6:15518  warning  'b' is defined but never used                                              no-unused-vars
+  6:15996  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:18472  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:23049  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:26326  warning  'a' is defined but never used                                              no-unused-vars
+  6:26425  warning  'b' is defined but never used                                              no-unused-vars
+  7:48     warning  'a' is defined but never used                                              no-unused-vars
+  7:364    warning  'a' is defined but never used                                              no-unused-vars
+  7:6347   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6635   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6702   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:6727   warning  'jsPlumb' is not defined                                                   no-undef
+  7:7327   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:8166   warning  'jsPlumb' is not defined                                                   no-undef
+  7:8217   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9693   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:9866   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9935   warning  'jsPlumb' is not defined                                                   no-undef
+  7:10041  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10109  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10131  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10156  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10209  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10280  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10722  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:10844  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11893  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13342  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13552  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13802  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13845  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13918  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13939  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14018  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14070  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15527  warning  'a' is defined but never used                                              no-unused-vars
+  7:15529  warning  'b' is defined but never used                                              no-unused-vars
+  7:15567  warning  'a' is defined but never used                                              no-unused-vars
+  7:15569  warning  'b' is defined but never used                                              no-unused-vars
+  7:15901  warning  'b' is defined but never used                                              no-unused-vars
+  7:16542  warning  'c' is defined but never used                                              no-unused-vars
+  7:16707  warning  'c' is defined but never used                                              no-unused-vars
+  7:16877  warning  'c' is defined but never used                                              no-unused-vars
+  7:17860  warning  'a' is defined but never used                                              no-unused-vars
+  7:17862  warning  'b' is defined but never used                                              no-unused-vars
+  7:17864  warning  'c' is defined but never used                                              no-unused-vars
+  7:17941  warning  'a' is defined but never used                                              no-unused-vars
+  7:17943  warning  'b' is defined but never used                                              no-unused-vars
+  7:17945  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Thevenin/CDN_folder/ChartCDN.js
+   7:69      warning  'module' is not defined                     no-undef
+   7:115     warning  'define' is not defined                     no-undef
+   7:126     warning  'define' is not defined                     no-undef
+  13:12105   warning  Empty block statement                       no-empty
+  13:14027   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:14185   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  13:23535   warning  's' is defined but never used               no-unused-vars
+  13:23711   warning  's' is defined but never used               no-unused-vars
+  13:25644   warning  't' is defined but never used               no-unused-vars
+  13:25695   warning  'e' is defined but never used               no-unused-vars
+  13:38047   warning  't' is defined but never used               no-unused-vars
+  13:38049   warning  'e' is defined but never used               no-unused-vars
+  13:38068   warning  't' is defined but never used               no-unused-vars
+  13:38097   warning  't' is defined but never used               no-unused-vars
+  13:38099   warning  'e' is defined but never used               no-unused-vars
+  13:38101   warning  'i' is defined but never used               no-unused-vars
+  13:38125   warning  't' is defined but never used               no-unused-vars
+  13:38127   warning  'e' is defined but never used               no-unused-vars
+  13:38129   warning  'i' is defined but never used               no-unused-vars
+  13:38294   warning  't' is defined but never used               no-unused-vars
+  13:38319   warning  't' is defined but never used               no-unused-vars
+  13:40985   warning  'e.width' is assigned to itself             no-self-assign
+  13:51939   warning  't' is defined but never used               no-unused-vars
+  13:55644   warning  't' is defined but never used               no-unused-vars
+  13:55646   warning  'e' is defined but never used               no-unused-vars
+  13:55648   warning  'i' is defined but never used               no-unused-vars
+  13:55650   warning  's' is defined but never used               no-unused-vars
+  13:61822   warning  'e' is defined but never used               no-unused-vars
+  13:69206   warning  't' is defined but never used               no-unused-vars
+  13:69208   warning  'e' is defined but never used               no-unused-vars
+  13:69239   warning  't' is defined but never used               no-unused-vars
+  13:101370  warning  't' is defined but never used               no-unused-vars
+  13:101402  warning  't' is defined but never used               no-unused-vars
+  13:101404  warning  'e' is defined but never used               no-unused-vars
+  13:101426  warning  't' is defined but never used               no-unused-vars
+  13:101428  warning  'e' is defined but never used               no-unused-vars
+  13:101447  warning  't' is defined but never used               no-unused-vars
+  13:101449  warning  'e' is defined but never used               no-unused-vars
+  13:101451  warning  'i' is defined but never used               no-unused-vars
+  13:101471  warning  't' is defined but never used               no-unused-vars
+  13:101473  warning  'e' is defined but never used               no-unused-vars
+  13:101475  warning  'i' is defined but never used               no-unused-vars
+  13:101498  warning  't' is defined but never used               no-unused-vars
+  13:101500  warning  'e' is defined but never used               no-unused-vars
+  13:101502  warning  'i' is defined but never used               no-unused-vars
+  13:101523  warning  't' is defined but never used               no-unused-vars
+  13:101525  warning  'e' is defined but never used               no-unused-vars
+  13:170970  warning  'e' is defined but never used               no-unused-vars
+  13:185051  warning  'e' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Thevenin/CDN_folder/JS_Plumb(2).js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:6001   warning  'exports' is not defined                                                   no-undef
+  1:6163   warning  'exports' is not defined                                                   no-undef
+  1:8096   warning  'c' is defined but never used                                              no-unused-vars
+  1:8098   warning  'd' is defined but never used                                              no-unused-vars
+  1:8100   warning  'e' is defined but never used                                              no-unused-vars
+  1:8102   warning  'f' is defined but never used                                              no-unused-vars
+  1:8104   warning  'g' is defined but never used                                              no-unused-vars
+  1:8106   warning  'h' is defined but never used                                              no-unused-vars
+  1:8108   warning  'i' is defined but never used                                              no-unused-vars
+  1:8110   warning  'j' is defined but never used                                              no-unused-vars
+  1:10619  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11134  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13395  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14152  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14203  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14309  warning  'a' is defined but never used                                              no-unused-vars
+  1:14311  warning  'b' is defined but never used                                              no-unused-vars
+  1:14313  warning  'c' is defined but never used                                              no-unused-vars
+  1:14315  warning  'd' is defined but never used                                              no-unused-vars
+  1:15691  warning  'exports' is not defined                                                   no-undef
+  1:19508  warning  'd' is defined but never used                                              no-unused-vars
+  1:25030  warning  Empty block statement                                                      no-empty
+  1:27559  warning  'd' is defined but never used                                              no-unused-vars
+  1:28118  warning  'a' is defined but never used                                              no-unused-vars
+  1:30022  warning  'p' is already defined                                                     no-redeclare
+  2:1993   warning  'b' is defined but never used                                              no-unused-vars
+  2:2115   warning  'b' is defined but never used                                              no-unused-vars
+  2:3168   warning  'exports' is not defined                                                   no-undef
+  2:3836   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4628   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4672   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5941   warning  'd' is defined but never used                                              no-unused-vars
+  2:6071   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6103   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6258   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:6290   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:8016   warning  Empty block statement                                                      no-empty
+  2:8584   warning  'exports' is not defined                                                   no-undef
+  2:11394  warning  'c' is defined but never used                                              no-unused-vars
+  2:11396  warning  'd' is defined but never used                                              no-unused-vars
+  2:13064  warning  'c' is defined but never used                                              no-unused-vars
+  2:21199  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:21297  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:24160  warning  'jsPlumbUtil' is not defined                                               no-undef
+  2:26279  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:31066  warning  'c' is defined but never used                                              no-unused-vars
+  3:16506  warning  'b' is defined but never used                                              no-unused-vars
+  3:19203  warning  'jsPlumbUtil' is not defined                                               no-undef
+  3:25783  warning  'exports' is not defined                                                   no-undef
+  3:27722  warning  'b' is defined but never used                                              no-unused-vars
+  4:3051   warning  'b' is defined but never used                                              no-unused-vars
+  4:3152   warning  'b' is defined but never used                                              no-unused-vars
+  4:4652   warning  'b' is defined but never used                                              no-unused-vars
+  4:4654   warning  'c' is defined but never used                                              no-unused-vars
+  4:6943   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:7578   warning  'c' is defined but never used                                              no-unused-vars
+  4:20397  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:24049  warning  'jsPlumbUtil' is not defined                                               no-undef
+  4:30971  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:31917  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  5:61     warning  'jsPlumb' is not defined                                                   no-undef
+  5:2562   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:7431   warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:11846  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:12051  warning  'Biltong' is not defined                                                   no-undef
+  5:13219  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:15371  warning  'g' is defined but never used                                              no-unused-vars
+  5:15463  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:16519  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:20974  warning  'a' is defined but never used                                              no-unused-vars
+  5:20976  warning  'b' is defined but never used                                              no-unused-vars
+  5:21181  warning  'a' is defined but never used                                              no-unused-vars
+  5:21183  warning  'b' is defined but never used                                              no-unused-vars
+  5:21185  warning  'c' is defined but never used                                              no-unused-vars
+  5:21187  warning  'd' is defined but never used                                              no-unused-vars
+  5:22312  warning  'a' is defined but never used                                              no-unused-vars
+  6:329    warning  'a' is defined but never used                                              no-unused-vars
+  6:331    warning  'b' is defined but never used                                              no-unused-vars
+  6:333    warning  'c' is defined but never used                                              no-unused-vars
+  6:335    warning  'd' is defined but never used                                              no-unused-vars
+  6:857    warning  'd' is defined but never used                                              no-unused-vars
+  6:1305   warning  'd' is defined but never used                                              no-unused-vars
+  6:1474   warning  'a' is defined but never used                                              no-unused-vars
+  6:2636   warning  'b' is defined but never used                                              no-unused-vars
+  6:2638   warning  'c' is defined but never used                                              no-unused-vars
+  6:2640   warning  'd' is defined but never used                                              no-unused-vars
+  6:3194   warning  'a' is defined but never used                                              no-unused-vars
+  6:3196   warning  'b' is defined but never used                                              no-unused-vars
+  6:3198   warning  'd' is defined but never used                                              no-unused-vars
+  6:4057   warning  'b' is defined but never used                                              no-unused-vars
+  6:4059   warning  'c' is defined but never used                                              no-unused-vars
+  6:4061   warning  'd' is defined but never used                                              no-unused-vars
+  6:4355   warning  'a' is defined but never used                                              no-unused-vars
+  6:4357   warning  'b' is defined but never used                                              no-unused-vars
+  6:4820   warning  'e' is defined but never used                                              no-unused-vars
+  6:5278   warning  'a' is defined but never used                                              no-unused-vars
+  6:5280   warning  'b' is defined but never used                                              no-unused-vars
+  6:6018   warning  'd' is defined but never used                                              no-unused-vars
+  6:8683   warning  'jsPlumb' is not defined                                                   no-undef
+  6:10255  warning  'b' is defined but never used                                              no-unused-vars
+  6:10434  warning  'b' is defined but never used                                              no-unused-vars
+  6:10783  warning  'a' is defined but never used                                              no-unused-vars
+  6:11043  warning  'c' is defined but never used                                              no-unused-vars
+  6:15295  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:16167  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:19666  warning  'a' is defined but never used                                              no-unused-vars
+  6:19668  warning  'b' is defined but never used                                              no-unused-vars
+  6:19728  warning  'a' is defined but never used                                              no-unused-vars
+  6:19730  warning  'b' is defined but never used                                              no-unused-vars
+  6:19899  warning  'jsPlumb' is not defined                                                   no-undef
+  6:20322  warning  'a' is defined but never used                                              no-unused-vars
+  6:20324  warning  'b' is defined but never used                                              no-unused-vars
+  6:20826  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:23088  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:23196  warning  'e' is assigned a value but never used                                     no-unused-vars
+  6:23442  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:28054  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:31331  warning  'a' is defined but never used                                              no-unused-vars
+  6:31430  warning  'b' is defined but never used                                              no-unused-vars
+  7:4994   warning  'a' is defined but never used                                              no-unused-vars
+  7:5310   warning  'a' is defined but never used                                              no-unused-vars
+  7:11541  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11829  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11896  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:11921  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12521  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:13366  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13417  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14893  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:15066  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15135  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15241  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15309  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15331  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15356  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15409  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15480  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15922  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:16044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:17093  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18570  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18780  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19030  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19073  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19146  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19167  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19246  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19272  warning  'jsPlumb' is not defined                                                   no-undef
+  7:19298  warning  'jsPlumb' is not defined                                                   no-undef
+  7:20772  warning  'a' is defined but never used                                              no-unused-vars
+  7:20774  warning  'b' is defined but never used                                              no-unused-vars
+  7:20812  warning  'a' is defined but never used                                              no-unused-vars
+  7:20814  warning  'b' is defined but never used                                              no-unused-vars
+  7:21146  warning  'b' is defined but never used                                              no-unused-vars
+  7:21787  warning  'c' is defined but never used                                              no-unused-vars
+  7:21952  warning  'c' is defined but never used                                              no-unused-vars
+  7:22122  warning  'c' is defined but never used                                              no-unused-vars
+  7:23241  warning  'a' is defined but never used                                              no-unused-vars
+  7:23243  warning  'b' is defined but never used                                              no-unused-vars
+  7:23245  warning  'c' is defined but never used                                              no-unused-vars
+  7:23322  warning  'a' is defined but never used                                              no-unused-vars
+  7:23324  warning  'b' is defined but never used                                              no-unused-vars
+  7:23326  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/CDN_folder/Thevenin/CDN_folder/JS_Plumb.js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:5929   warning  'exports' is not defined                                                   no-undef
+  1:6091   warning  'exports' is not defined                                                   no-undef
+  1:8024   warning  'c' is defined but never used                                              no-unused-vars
+  1:8026   warning  'd' is defined but never used                                              no-unused-vars
+  1:8028   warning  'e' is defined but never used                                              no-unused-vars
+  1:8030   warning  'f' is defined but never used                                              no-unused-vars
+  1:8032   warning  'g' is defined but never used                                              no-unused-vars
+  1:8034   warning  'h' is defined but never used                                              no-unused-vars
+  1:8036   warning  'i' is defined but never used                                              no-unused-vars
+  1:8038   warning  'j' is defined but never used                                              no-unused-vars
+  1:10547  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11062  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13297  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14054  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14105  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14211  warning  'a' is defined but never used                                              no-unused-vars
+  1:14213  warning  'b' is defined but never used                                              no-unused-vars
+  1:14215  warning  'c' is defined but never used                                              no-unused-vars
+  1:14217  warning  'd' is defined but never used                                              no-unused-vars
+  1:15593  warning  'exports' is not defined                                                   no-undef
+  1:19410  warning  'd' is defined but never used                                              no-unused-vars
+  1:24676  warning  Empty block statement                                                      no-empty
+  1:27203  warning  'd' is defined but never used                                              no-unused-vars
+  1:27762  warning  'a' is defined but never used                                              no-unused-vars
+  1:29666  warning  'p' is already defined                                                     no-redeclare
+  2:1605   warning  'b' is defined but never used                                              no-unused-vars
+  2:1727   warning  'b' is defined but never used                                              no-unused-vars
+  2:2780   warning  'exports' is not defined                                                   no-undef
+  2:3448   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4240   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4284   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5553   warning  'd' is defined but never used                                              no-unused-vars
+  2:5683   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5715   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5870   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5902   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:7432   warning  Empty block statement                                                      no-empty
+  2:7771   warning  'exports' is not defined                                                   no-undef
+  2:10476  warning  'c' is defined but never used                                              no-unused-vars
+  2:10478  warning  'd' is defined but never used                                              no-unused-vars
+  2:12088  warning  'c' is defined but never used                                              no-unused-vars
+  2:25125  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:29854  warning  'c' is defined but never used                                              no-unused-vars
+  3:15015  warning  'b' is defined but never used                                              no-unused-vars
+  3:24355  warning  'exports' is not defined                                                   no-undef
+  3:26260  warning  'b' is defined but never used                                              no-unused-vars
+  4:1601   warning  'b' is defined but never used                                              no-unused-vars
+  4:1702   warning  'b' is defined but never used                                              no-unused-vars
+  4:3202   warning  'b' is defined but never used                                              no-unused-vars
+  4:3204   warning  'c' is defined but never used                                              no-unused-vars
+  4:5430   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:6065   warning  'c' is defined but never used                                              no-unused-vars
+  4:18923  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:29270  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30186  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30357  warning  'jsPlumb' is not defined                                                   no-undef
+  5:10104  warning  'Biltong' is not defined                                                   no-undef
+  5:14364  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:17869  warning  'a' is defined but never used                                              no-unused-vars
+  5:17871  warning  'b' is defined but never used                                              no-unused-vars
+  5:18076  warning  'a' is defined but never used                                              no-unused-vars
+  5:18078  warning  'b' is defined but never used                                              no-unused-vars
+  5:18080  warning  'c' is defined but never used                                              no-unused-vars
+  5:18082  warning  'd' is defined but never used                                              no-unused-vars
+  5:19207  warning  'a' is defined but never used                                              no-unused-vars
+  5:28248  warning  'a' is defined but never used                                              no-unused-vars
+  5:28250  warning  'b' is defined but never used                                              no-unused-vars
+  5:28252  warning  'c' is defined but never used                                              no-unused-vars
+  5:28254  warning  'd' is defined but never used                                              no-unused-vars
+  5:28776  warning  'd' is defined but never used                                              no-unused-vars
+  5:29224  warning  'd' is defined but never used                                              no-unused-vars
+  5:29393  warning  'a' is defined but never used                                              no-unused-vars
+  5:30555  warning  'b' is defined but never used                                              no-unused-vars
+  5:30557  warning  'c' is defined but never used                                              no-unused-vars
+  5:30559  warning  'd' is defined but never used                                              no-unused-vars
+  5:31113  warning  'a' is defined but never used                                              no-unused-vars
+  5:31115  warning  'b' is defined but never used                                              no-unused-vars
+  5:31117  warning  'd' is defined but never used                                              no-unused-vars
+  5:31976  warning  'b' is defined but never used                                              no-unused-vars
+  5:31978  warning  'c' is defined but never used                                              no-unused-vars
+  5:31980  warning  'd' is defined but never used                                              no-unused-vars
+  6:270    warning  'a' is defined but never used                                              no-unused-vars
+  6:272    warning  'b' is defined but never used                                              no-unused-vars
+  6:735    warning  'e' is defined but never used                                              no-unused-vars
+  6:1193   warning  'a' is defined but never used                                              no-unused-vars
+  6:1195   warning  'b' is defined but never used                                              no-unused-vars
+  6:1933   warning  'd' is defined but never used                                              no-unused-vars
+  6:4580   warning  'jsPlumb' is not defined                                                   no-undef
+  6:6152   warning  'b' is defined but never used                                              no-unused-vars
+  6:6331   warning  'b' is defined but never used                                              no-unused-vars
+  6:6680   warning  'a' is defined but never used                                              no-unused-vars
+  6:6940   warning  'c' is defined but never used                                              no-unused-vars
+  6:10981  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:14917  warning  'a' is defined but never used                                              no-unused-vars
+  6:14919  warning  'b' is defined but never used                                              no-unused-vars
+  6:14979  warning  'a' is defined but never used                                              no-unused-vars
+  6:14981  warning  'b' is defined but never used                                              no-unused-vars
+  6:15093  warning  'jsPlumb' is not defined                                                   no-undef
+  6:15516  warning  'a' is defined but never used                                              no-unused-vars
+  6:15518  warning  'b' is defined but never used                                              no-unused-vars
+  6:15996  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:18472  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:23049  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:26326  warning  'a' is defined but never used                                              no-unused-vars
+  6:26425  warning  'b' is defined but never used                                              no-unused-vars
+  7:48     warning  'a' is defined but never used                                              no-unused-vars
+  7:364    warning  'a' is defined but never used                                              no-unused-vars
+  7:6347   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6635   warning  'jsPlumb' is not defined                                                   no-undef
+  7:6702   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:6727   warning  'jsPlumb' is not defined                                                   no-undef
+  7:7327   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:8166   warning  'jsPlumb' is not defined                                                   no-undef
+  7:8217   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9693   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:9866   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9935   warning  'jsPlumb' is not defined                                                   no-undef
+  7:10041  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10109  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10131  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10156  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10209  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10280  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10722  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:10844  warning  'jsPlumb' is not defined                                                   no-undef
+  7:11893  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13342  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13552  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13802  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13845  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13918  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13939  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14018  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14044  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14070  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15527  warning  'a' is defined but never used                                              no-unused-vars
+  7:15529  warning  'b' is defined but never used                                              no-unused-vars
+  7:15567  warning  'a' is defined but never used                                              no-unused-vars
+  7:15569  warning  'b' is defined but never used                                              no-unused-vars
+  7:15901  warning  'b' is defined but never used                                              no-unused-vars
+  7:16542  warning  'c' is defined but never used                                              no-unused-vars
+  7:16707  warning  'c' is defined but never used                                              no-unused-vars
+  7:16877  warning  'c' is defined but never used                                              no-unused-vars
+  7:17860  warning  'a' is defined but never used                                              no-unused-vars
+  7:17862  warning  'b' is defined but never used                                              no-unused-vars
+  7:17864  warning  'c' is defined but never used                                              no-unused-vars
+  7:17941  warning  'a' is defined but never used                                              no-unused-vars
+  7:17943  warning  'b' is defined but never used                                              no-unused-vars
+  7:17945  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/js/function.js
+    6:5   warning  'prnt' is assigned a value but never used          no-unused-vars
+    8:5   warning  'A1reading' is assigned a value but never used     no-unused-vars
+    9:5   warning  'A2reading' is assigned a value but never used     no-unused-vars
+   10:5   warning  'A3reading' is assigned a value but never used     no-unused-vars
+   13:5   warning  'var_switch' is assigned a value but never used    no-unused-vars
+   14:5   warning  'onOff_switch' is assigned a value but never used  no-unused-vars
+   91:5   warning  'connFlag' is assigned a value but never used      no-unused-vars
+   96:5   warning  'onOff_state' is assigned a value but never used   no-unused-vars
+  131:5   warning  'flag_s3' is assigned a value but never used       no-unused-vars
+  147:5   warning  'ndlList' is assigned a value but never used       no-unused-vars
+  183:18  warning  'jsPlumb' is not defined                           no-undef
+  247:10  warning  'disconnect' is defined but never used             no-unused-vars
+  252:10  warning  'changeSign' is defined but never used             no-unused-vars
+  318:14  warning  'i' is already defined                             no-redeclare
+  327:14  warning  'i' is already defined                             no-redeclare
+  341:14  warning  'i' is already defined                             no-redeclare
+  456:13  warning  'r1' is assigned a value but never used            no-unused-vars
+  493:21  warning  'd' is already defined                             no-redeclare
+  498:21  warning  'd' is already defined                             no-redeclare
+  733:10  warning  'VerifyUser' is defined but never used             no-unused-vars
+  840:9   warning  's8' is not defined                                no-undef
+  851:9   warning  's8' is not defined                                no-undef
+  852:9   warning  's9' is not defined                                no-undef
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/js/function2.js
+    9:5   warning  'V1reading' is assigned a value but never used  no-unused-vars
+   10:5   warning  'A1reading' is assigned a value but never used  no-unused-vars
+   11:5   warning  'W1reading' is assigned a value but never used  no-unused-vars
+   12:5   warning  'answer' is assigned a value but never used     no-unused-vars
+   14:5   warning  'loadImg' is assigned a value but never used    no-unused-vars
+   18:5   warning  'P_V' is assigned a value but never used        no-unused-vars
+   55:5   warning  'user' is assigned a value but never used       no-unused-vars
+   78:5   warning  'flags1_2' is assigned a value but never used   no-unused-vars
+   80:5   warning  'flags5' is assigned a value but never used     no-unused-vars
+   87:18  warning  'jsPlumb' is not defined                        no-undef
+  249:13  warning  'd' is already defined                          no-redeclare
+  476:10  warning  'disconnect' is defined but never used          no-unused-vars
+  482:6   warning  's1' is not defined                             no-undef
+  483:6   warning  's2' is not defined                             no-undef
+  484:6   warning  's3' is not defined                             no-undef
+  485:6   warning  's4' is not defined                             no-undef
+  486:6   warning  's5' is not defined                             no-undef
+  487:6   warning  's6' is not defined                             no-undef
+  488:6   warning  's7' is not defined                             no-undef
+  505:9   warning  's1' is not defined                             no-undef
+  506:9   warning  's2' is not defined                             no-undef
+  512:9   warning  's1' is not defined                             no-undef
+  513:9   warning  's2' is not defined                             no-undef
+  514:9   warning  's3' is not defined                             no-undef
+  523:9   warning  's1' is not defined                             no-undef
+  524:9   warning  's2' is not defined                             no-undef
+  525:9   warning  's3' is not defined                             no-undef
+  526:9   warning  's4' is not defined                             no-undef
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/js/function3.js
+   23:5   warning  'RESET_BUTTON' is assigned a value but never used            no-unused-vars
+   24:5   warning  'PRINT_BUTTON' is assigned a value but never used            no-unused-vars
+   28:5   warning  'myPlot' is assigned a value but never used                  no-unused-vars
+   30:5   warning  'toggle' is assigned a value but never used                  no-unused-vars
+   56:5   warning  'arrChkStore' is assigned a value but never used             no-unused-vars
+   57:5   warning  'CONNECTIONS_CHECK_BOOL' is assigned a value but never used  no-unused-vars
+   58:5   warning  'L' is assigned a value but never used                       no-unused-vars
+   72:18  warning  'jsPlumb' is not defined                                     no-undef
+  195:13  warning  'Chart' is not defined                                       no-undef
+  421:10  warning  'disconnect' is defined but never used                       no-unused-vars
+  549:9   warning  's8' is not defined                                          no-undef
+  560:9   warning  's8' is not defined                                          no-undef
+  561:9   warning  's9' is not defined                                          no-undef
+
+/home/runner/work/exp-network-theorem-iitr/exp-network-theorem-iitr/experiment/simulation/js/function4.js
+    7:5   warning  'loadImg' is assigned a value but never used     no-unused-vars
+   13:5   warning  'P_M' is assigned a value but never used         no-unused-vars
+   50:5   warning  'Ilo' is assigned a value but never used         no-unused-vars
+   71:5   warning  'checkflag' is assigned a value but never used   no-unused-vars
+   77:5   warning  'knob_state' is assigned a value but never used  no-unused-vars
+   78:5   warning  'flagADD' is assigned a value but never used     no-unused-vars
+   84:18  warning  'jsPlumb' is not defined                         no-undef
+  194:10  warning  'disconnect' is defined but never used           no-unused-vars
+  238:13  warning  'd' is already defined                           no-redeclare
+  440:5   warning  'verify' is not defined                          no-undef
+  451:10  warning  'verifyUser' is defined but never used           no-unused-vars
+  469:5   warning  's1' is not defined                              no-undef
+  470:5   warning  's2' is not defined                              no-undef
+  471:5   warning  's3' is not defined                              no-undef
+  472:5   warning  's4' is not defined                              no-undef
+  473:5   warning  's5' is not defined                              no-undef
+  474:5   warning  's6' is not defined                              no-undef
+  475:5   warning  's7' is not defined                              no-undef
+  491:9   warning  's1' is not defined                              no-undef
+  492:9   warning  's2' is not defined                              no-undef
+  498:9   warning  's1' is not defined                              no-undef
+  499:9   warning  's2' is not defined                              no-undef
+  500:9   warning  's3' is not defined                              no-undef
+  509:9   warning  's1' is not defined                              no-undef
+  510:9   warning  's2' is not defined                              no-undef
+  511:9   warning  's3' is not defined                              no-undef
+  512:9   warning  's4' is not defined                              no-undef
+  516:9   warning  's1' is not defined                              no-undef
+  517:9   warning  's2' is not defined                              no-undef
+  518:9   warning  's3' is not defined                              no-undef
+  519:9   warning  's4' is not defined                              no-undef
+  520:9   warning  's5' is not defined                              no-undef
+
+✖ 1580 problems (0 errors, 1580 warnings)
+
